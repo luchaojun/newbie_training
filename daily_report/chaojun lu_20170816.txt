@@ -1,0 +1,6 @@
+				   Summary today
+	Today,I learn four components of service and process.If you use the service,you should
+define a class which extends the interface of Service and realize the method of onBind.The
+process includes foregroud process,visible process,service process,background process and 
+empty process.
+	I make a programme about monitering the phone.
