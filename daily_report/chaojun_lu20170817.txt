@@ -1,0 +1,3 @@
+					Summary today
+	Today,l learn using bindService to use the method which we define in the class in android.We must create  a class which implements the interface of ServiceConnection and realize the method of the onServiceConnected.Next,learn the android interface define language.It can realize connecting between one process and the other process.For example,if you want to use a method in the other programme,you should use it.When you use it ,you should make the interface's suffix become aidl.
+	I make a programme which modeled the ALiPay to pay.
