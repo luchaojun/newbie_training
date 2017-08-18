@@ -1,0 +1,5 @@
+					Summary today
+
+	Today,I learn the four components of the ContentProvider.If you use the ContentProvider,you must define a class and extend ContentProvider.You also should add receiver in
+AndroidManifest.Next,we can use ContentResolver to get the data which ContentProvider provides.Using ContentProvider can help us to operate the database in phone such as inserting,deleting,updating and selecting.
+	I make two programmes about reading phone's message and contacts. 
