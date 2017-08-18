@@ -1,0 +1,3 @@
+								Summary today
+	Today, I learn to use the ContentProvider to read the information of the contacts.There are some database tables to store the contacts such as table raw_data,table data,table mimetype.If you want to make a programme read the contacts,you must know these database tables properly.The table raw_contact mainly stores contact_id.The table data mainly stores the information of the contacts.The table mimetype mainly stores the type of information.
+	I make two programmes about reading the information of contacts and insert contacts.
