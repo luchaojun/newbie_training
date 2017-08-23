@@ -1,0 +1,6 @@
+								Summary today
+	Today,l learn the knowledage of the media and the picture of three styles which are bmp,jpg and png.
+	If you want to show a hign  distinguishability picture on the Android device and the distinguishability of the picture is more than your
+phone's distinguishability,the picture will show fail.Next,you want to a class which is WindowManager to calculate the  convergent-divergent and use the convergent-divergent to show the picture.I also use the Bitmap to create a copy of picture.
+	The picture of bmp style is a hign quality picture.It was used in computer.The picture of png style is also a hign quality picture.It was used android.
+	I make a programe about drawing board.
