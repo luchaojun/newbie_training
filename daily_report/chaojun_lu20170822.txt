@@ -1,0 +1,5 @@
+								Summary today
+	Today,l try to use the event of OnTouchListener,the class of mediaplayer and the algorithm about drawing trangle and circle.
+	If you want to the event of OnTouchListener,you must define a inner class OnTouchListener and realize the method of onTouch.The class of
+mediaplayer is used to play the music and video.When you want want to play a music,you must use the method of setDataSource,prepare and start.The method of setDataSource is to set the path of source.The method of prepare is to prepare to play the music.The metod of start is to start to play the music.
+	I make a programme about removing the clothes.
