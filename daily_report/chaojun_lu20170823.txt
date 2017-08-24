@@ -1,0 +1,4 @@
+							Summary today
+	Today,I learn to use media to play the internet video and use the framework of Vitamio.
+	When you want to play the internet video,you must use the method of setDataSource,prepareAsync,setDisplay and start.But using these methods is only to play video which is the style of MP4 and 3gp.If you want to play the video which is the style of avi and mov,these methods will can't realized.So,we can use the frame of Vitamio.This framework will help us play all of the videos.This frame is open source framework.We can download on the internet.It was  packaging the class surfaceview and mediaplayer.
+	I make a programme  about play the internet video.
