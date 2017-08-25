@@ -1,0 +1,4 @@
+							Summary today
+	Today,I learn to use the function of camera and video and fragment.
+	The function of camera and video is to take a photo or record a video  and store in the phone's sdcard.If you want to realize this function,you must use two methods which is putExtra and startActivityForResult.And you must give the permission of WRITE_EXTERNAL_STORAGE.When you use the Fragment,you should define a class and extend the Fragment.Next,you should overwrite the the method of onCreateView.
+	I make a programme about the basic framework of WeiXing.
