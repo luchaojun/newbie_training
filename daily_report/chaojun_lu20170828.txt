@@ -1,0 +1,4 @@
+							Summary today
+         Today,l learn to use Notification,AbsoluteLayout,FramLayout.
+	 The class Notification is used to let phone pop up a dialog.If you want use the class Notification,you should use the methods of setContentTitle,setContentText,setSmallIcon,setLargeIcon,build.Although you realize these methods,the dialog is clicked and it was no  responding.We can add a method of addAction and the dialog will have a respose.When you use the AbsoluteLayout,you must define layout_X
+and layout_y.FrameLayout is designed to block out an area on the screen to display a single item.
