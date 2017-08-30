@@ -1,0 +1,5 @@
+							Summary today
+	Today,I learn to use the layout of AbsoulteLayout,FrameLayout and TableLayout.
+	When you use the AbsoulteLayout,you must define layout_x and layout_y.FrameLayout is designed to block out an area on the screen to display a single item.If you have two pictures,you can use FrameLayout to make one picture cover the other picture.TableLayout is to make your
+ components which you define list like a table.And you should use TableRow to control the position of the components.
+	I make a programme about calculator.
