@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.luchaojun.calculator.MainActivity">
+
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <!--使用一个TextView的控件来显示用户输入的信息-->
+            <TextView
+               android:id="@+id/data_tv"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textSize="100px" />
+
+            <!--使用TableLayout来展示计算按键的布局-->
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <!--计算机界面第一行-->
+                <TableRow>
+                    <Button
+                        android:id="@+id/one_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="1"/>
+
+                    <Button
+                        android:id="@+id/two_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="2"/>
+
+                    <Button
+                        android:id="@+id/three_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="3"/>
+
+                    <Button
+                        android:id="@+id/jia_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:background="#FFD700"
+                        android:text="+"/>
+                </TableRow>
+
+                <!--计算机界面第二行-->
+                <TableRow>
+                    <Button
+                        android:id="@+id/four_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="4"/>
+
+                    <Button
+                        android:id="@+id/five_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="5"/>
+
+                    <Button
+                        android:id="@+id/six_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="6"/>
+
+                    <Button
+                        android:id="@+id/jian_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:background="#FFD700"
+                        android:text="-"/>
+                </TableRow>
+
+                <!--计算机界面第三行-->
+                <TableRow>
+                    <Button
+                        android:id="@+id/seven_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="7"/>
+
+                    <Button
+                        android:id="@+id/eight_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="8"/>
+
+                    <Button
+                        android:id="@+id/nine_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="9"/>
+
+                    <Button
+                        android:id="@+id/cheng_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:background="#FFD700"
+                        android:text="×"/>
+                </TableRow>
+
+                <!--计算机界面第四行-->
+                <TableRow>
+                    <Button
+                        android:id="@+id/dian_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="."/>
+
+                    <Button
+                        android:id="@+id/zero_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:text="0"/>
+
+                    <Button
+                        android:id="@+id/chu_btn"
+                        android:layout_width="150px"
+                        android:layout_height="150px"
+                        android:textSize="100px"
+                        android:layout_weight="1"
+                        android:background="#FFD700"
+                        android:text="/"/>
+                </TableRow>
+
+                <TableLayout>
+                    <TableRow>
+                        <Button
+                            android:id="@+id/deng_btn"
+                            android:layout_width="150px"
+                            android:layout_height="150px"
+                            android:textSize="100px"
+                            android:layout_weight="1"
+                            android:text="=" />
+
+                        <Button
+                            android:id="@+id/qingkong_btn"
+                            android:layout_width="150px"
+                            android:layout_height="150px"
+                            android:textSize="100px"
+                            android:layout_weight="1"
+                            android:text="cl" />
+
+                    </TableRow>
+                </TableLayout>
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
