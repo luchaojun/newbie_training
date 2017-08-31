@@ -1,0 +1,6 @@
+								Summary today
+	Today,I learn to use the components of DatePicker,TimePicker,RadioGroup and CheckBox.
+	The DatePicker is used to show the phone's calender.When you use the methods of init,you can change the date of  TextView which you define.And the TimePicker is used to show the phone's time.The use of it is same as the DatePicker.The RadioGroup is used with RadioButton.
+The user is only to choose one choice but CheckBox can be chosen more than one choice.
+	I make a programme about choosing hobby and sex.
+
