@@ -1,0 +1,3 @@
+							Summary today
+	Today,l learned to use sax parser.
+	Firstly,you should use the method of newInstance in order to get the SaxParserFactory.Secondary,you can create a class which extends DefaultHandler and realize the methods which are startDocument,endDocument,startElement，endElement and character.Thirdly,you should use the setContentHandler.Finally,you must use the method of parse to start parse the document.
