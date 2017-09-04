@@ -1,0 +1,3 @@
+							Summary today
+	Today,I learn to use the components of Progressbar,GridView,Spinner and WifiManager.
+	Progressbar is used to show the progress when you download some information or load a software.You can set the attribute of style to change the progressbar's shape.GridView is used to show the pictures.It must be used with adapter.We can set some listeners.Spinnner is used to display one child at a time and lets the user pick among them.It is also used with adapter.The WifiManager is used to control the wifi to close and open.
