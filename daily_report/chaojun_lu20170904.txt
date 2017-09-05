@@ -1,0 +1,3 @@
+							Summary today
+	Today,l learn to use direction sensor and light sensor.When you use these two sensors,you must use the method of getSystemService to get SensorManager.Secondary,you should use the method of getDefaultSensor to get the Sensor which you need.Thirdly,you can use the method of registerListener to redister a listener.In registerListener,there is a param you must deal with.You can create a class to implements  the interface of the SensorEventListener and realize two methods which are onSensorChanged and onAccuracyChanged.The onSensorChanged is invoked when the data change.The onAccuracyChanged is invoked when the accuracy change.
+	I make two programmes about compass and phone anti-theft.
