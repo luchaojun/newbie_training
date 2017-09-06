@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gsensor_test_title">GSensor Test</string>
+    <string name="gsensor_test_title_cn">重力感应器测试</string>
+    <string name="gsensor_unavailable">GSensor is unavailable!</string>
+    <string name="gsensor_unavailable_cn">重力感应器不可用!</string>
+</resources>

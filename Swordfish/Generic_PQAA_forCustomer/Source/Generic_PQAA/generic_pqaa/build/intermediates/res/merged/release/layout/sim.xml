@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/remaintime"
+            style="@style/test_content_time" />
+
+        <TextView
+            android:id="@+id/totaltime"
+            style="@style/test_content_time" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:scrollbars="vertical" >
+
+            <TextView
+                android:id="@+id/sim_state"
+                style="@style/test_content_primary_low"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1sp"
+                android:layout_marginLeft="20sp"
+                android:layout_marginRight="20sp"
+                android:background="#000000"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/sim_imsi"
+                style="@style/test_content_primary_low"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1sp"
+                android:layout_marginLeft="20sp"
+                android:layout_marginRight="20sp"
+                android:background="#000000"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/netword_type"
+                style="@style/test_content_primary_low"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Network Type: " />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1sp"
+                android:layout_marginLeft="20sp"
+                android:layout_marginRight="20sp"
+                android:background="#000000"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/vendor_id"
+                style="@style/test_content_primary_low"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Vendor ID: " />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1sp"
+                android:layout_marginLeft="20sp"
+                android:layout_marginRight="20sp"
+                android:background="#000000"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/vendor_name"
+                style="@style/test_content_primary_low"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Vendor Name: " />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1sp"
+                android:layout_marginLeft="20sp"
+                android:layout_marginRight="20sp"
+                android:background="#000000"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/signal_strength"
+                style="@style/test_content_primary_low"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Signal Strength: "
+                android:visibility="visible" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1sp"
+                android:layout_marginLeft="20sp"
+                android:layout_marginRight="20sp"
+                android:background="#000000"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/sim_network_type"
+                style="@style/test_content_primary_low"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="invisible" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1sp"
+                android:layout_marginLeft="20sp"
+                android:layout_marginRight="20sp"
+                android:background="#000000"
+                android:visibility="invisible" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <Button
+        style="@style/test_button"
+        android:visibility="invisible" />
+
+</LinearLayout>

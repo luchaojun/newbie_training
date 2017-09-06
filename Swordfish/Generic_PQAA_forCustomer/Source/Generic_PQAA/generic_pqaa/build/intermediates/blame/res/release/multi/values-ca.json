@@ -1,0 +1,967 @@
+[
+    {
+        "outputFile": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 117,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 117,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 107,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 107,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 122,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 122,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 105,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 105,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 106,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 106,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 82,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 82,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 107,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endColumn": 107,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 125,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 125,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 83,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 83,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 80,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 80,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 82,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 82,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 110,
+                    "endOffset": 1288
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1182,
+                        "endColumn": 110,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1293,
+                    "endColumn": 108,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endColumn": 108,
+                        "endOffset": 1397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 97,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1402,
+                        "endColumn": 97,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endColumn": 109,
+                    "endOffset": 1605
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endColumn": 109,
+                        "endOffset": 1605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1610,
+                    "endColumn": 103,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1610,
+                        "endColumn": 103,
+                        "endOffset": 1709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1714,
+                    "endColumn": 107,
+                    "endOffset": 1817
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1714,
+                        "endColumn": 107,
+                        "endOffset": 1817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1822,
+                    "endColumn": 122,
+                    "endOffset": 1940
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1822,
+                        "endColumn": 122,
+                        "endOffset": 1940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1945,
+                    "endColumn": 98,
+                    "endOffset": 2039
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1945,
+                        "endColumn": 98,
+                        "endOffset": 2039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2044,
+                    "endColumn": 100,
+                    "endOffset": 2140
+                },
+                "from": {
+                    "file": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2044,
+                        "endColumn": 100,
+                        "endOffset": 2140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 117,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 117,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 107,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 107,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 122,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 122,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 105,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 105,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 106,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 106,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 82,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 82,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 107,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 107,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 125,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 125,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 110,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 110,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 108,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 108,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endColumn": 97,
+                    "endOffset": 1247
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 97,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1252,
+                    "endColumn": 109,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endColumn": 109,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 103,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 103,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 107,
+                    "endOffset": 1569
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 107,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1574,
+                    "endColumn": 122,
+                    "endOffset": 1692
+                },
+                "from": {
+                    "file": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1575,
+                        "endColumn": 122,
+                        "endOffset": 1693
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 117,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 117,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 107,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 107,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 122,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 122,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 105,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 105,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 106,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 106,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 82,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 82,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 107,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 107,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 125,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 125,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 110,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 110,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 108,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 108,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endColumn": 97,
+                    "endOffset": 1247
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 97,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1252,
+                    "endColumn": 109,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endColumn": 109,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 103,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 103,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 107,
+                    "endOffset": 1569
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 107,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1574,
+                    "endColumn": 122,
+                    "endOffset": 1692
+                },
+                "from": {
+                    "file": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1575,
+                        "endColumn": 122,
+                        "endOffset": 1693
+                    }
+                }
+            }
+        ]
+    }
+]

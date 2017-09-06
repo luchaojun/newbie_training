@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Qrcode_generate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/generic_pqaa/libs/Qrcode_generate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

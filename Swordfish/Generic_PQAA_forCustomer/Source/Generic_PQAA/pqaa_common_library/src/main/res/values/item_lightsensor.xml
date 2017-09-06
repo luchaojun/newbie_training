@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lightsensor_test_title">LightSensor Test</string>
+    <string name="lightsensor_test_title_cn">光感应器测试</string>
+    <string name="lightsensor_unavailable">LightSensor is unavailable!</string>
+    <string name="lightsensor_unavailable_cn">光感应器不可用!</string>
+    <string name="lightsensor_tips">please select the range of test:</string>
+    <string name="lightsensor_tips_cn">请选择测试范围：</string>
+</resources>

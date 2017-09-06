@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sdcard_test_title">SDCard Test</string>
+    <string name="sdcard_test_title_cn">存储卡测试</string>
+    <string name="sdcard_test">Write/Read Test</string>
+    <string name="sdcard_test_cn">读写测试</string>
+    <string name="sdcard_path">Path:</string>
+    <string name="sdcard_path_cn">路径：</string>
+    <string name="sdcard_status">Test Status:</string>
+    <string name="sdcard_status_cn">测试状态：</string>
+    <string name="sdcard_option">Test Option : </string>
+    <string name="sdcard_option_cn">测试选项： </string>
+    <string name="sdcard_protect">SDCard Protect Test</string>
+    <string name="sdcard_protect_cn">存储卡写保护测试</string>
+    <string name="sdcard_dialog_title">Warning!</string>
+    <string name="sdcard_dialog_title_cn">警告！</string>
+    <string name="sdcard_dialog_msg_plug">Please insert SD card which is portected!</string>
+    <string name="sdcard_dialog_msg_plug_cn">请插入已写保护的存储卡!</string>
+    <string name="sdcard_dialog_msg_deleting">Deleting temp files, please wait for a moment&#8230;</string>
+    <string name="sdcard_dialog_msg_deleting_cn">正在删除临时文件，请稍侯&#8230;</string>
+    <string name="sdcard_nosdcard">There is no SD card</string>
+    <string name="sdcard_nosdcard_cn">未发现存储卡</string>
+    <string name="sdcard_testing">testing&#8230;</string>
+    <string name="sdcard_testing_cn">测试中&#8230;</string>
+    <string name="sdcard_deleting">deleting&#8230;</string>
+    <string name="sdcard_deleting_cn">删除临时文件&#8230;</string>
+    
+    <!-- Auto test -->
+    <string name="sdcard_test_start">Start test</string>
+    <string name="sdcard_test_start_cn">开始测试</string>
+    <string name="sdcard_test_progress_changed">Test progress: %1$d %%</string>
+    <string name="sdcard_test_progress_changed_cn">测试进度: %1$d %%</string>
+    <string name="sdcard_test_abort">Get exception during test: %1$s</string>
+    <string name="sdcard_test_abort_cn">测试发生异常： %1$s</string>
+    <string name="sdcard_result_fail">Check fail between write content and read content</string>
+    <string name="sdcard_result_fail_cn">写入内容和读取内容不一致</string>
+    <string name="sdcard_delete_start">Start to delete the temp files</string>
+    <string name="sdcard_delete_start_cn">开始删除临时文件</string>
+    <string name="sdcard_delete_progress_changed">Delete progress: %1$d %%</string>
+    <string name="sdcard_delete_progress_changed_cn">删除进度: %1$d %%</string>
+    <string name="sdcard_test_done">Finish!</string>
+    <string name="sdcard_test_done_cn">测试结束！</string>
+</resources>

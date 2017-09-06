@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:stretchColumns="0" >
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/wireless_charging_status_title"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wireless_charging_status" />
+
+            <TextView
+                android:id="@+id/wireless_charging_status"
+                style="@style/test_content_secondary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+        
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/wireless_charging_present_title"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wireless_charging_present" />
+
+            <TextView
+                android:id="@+id/wireless_charging_present"
+                style="@style/test_content_secondary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/wireless_charging_plug_title"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wireless_charging_plug" />
+
+            <TextView
+                android:id="@+id/wireless_charging_plug"
+                style="@style/test_content_secondary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/wireless_charging_level_title"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wireless_charging_level" />
+
+            <TextView
+                android:id="@+id/wireless_charging_level"
+                style="@style/test_content_secondary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/wireless_charging_scale_title"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wireless_charging_scale" />
+
+            <TextView
+                android:id="@+id/wireless_charging_scale"
+                style="@style/test_content_secondary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/wireless_charging_health_title"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wireless_charging_health" />
+
+            <TextView
+                android:id="@+id/wireless_charging_health"
+                style="@style/test_content_secondary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/wireless_charging_voltage_title"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wireless_charging_voltage" />
+
+            <TextView
+                android:id="@+id/wireless_charging_voltage"
+                style="@style/test_content_secondary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/wireless_charging_temperature_title"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wireless_charging_temperature" />
+
+            <TextView
+                android:id="@+id/wireless_charging_temperature"
+                style="@style/test_content_secondary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/wireless_charging_technology_title"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wireless_charging_technology" />
+
+            <TextView
+                android:id="@+id/wireless_charging_technology"
+                style="@style/test_content_secondary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/wireless_charging_time_title"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wireless_charging_time" />
+
+            <TextView
+                android:id="@+id/wireless_charging_time"
+                style="@style/test_content_secondary"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </TableRow>
+    </TableLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <Button
+        android:id="@+id/wireless_charging_exit"
+        style="@style/test_button"
+        android:layout_gravity="center"
+        android:text="@string/button_exit" />
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Ethernet</string>
+
+    <!-- DVD -->
+    <string name="dvd_app_name">DVD</string>
+    <string name="dvd_test_title">CD/DVD Test</string>
+    <string name="dvd_test_title_cn">CD/DVD测试</string>
+
+    <!-- Ethernet -->
+    <string name="ethernet_app_name">Ethernet</string>
+    <string name="ethernet_test_title">Ethernet Test</string>
+    <string name="ethernet_test_title_cn">有线网络测试</string>
+    <string name="ethernet_no_network_available">no networks are available!\n</string>
+    <string name="ethernet_no_network_available_cn">无网络连接可用！\n</string>
+    <string name="ethernet_network_is_wifi">current network is Wifi, not Ethernet connection.\n</string>
+    <string name="ethernet_network_is_wifi_cn">当前网络环境是Wifi,非有线网络测试\n</string>
+    <string name="ethernet_network_is_3g">current network is mobile data, not Ethernet connect.\n</string>
+    <string name="ethernet_network_is_3g_cn">当前网络环境是移动数据,非有线网络测试\n</string>
+    <string name="ethernet_invalid_data_connect">invalid data connection for current test!\n</string>
+    <string name="ethernet_invalid_data_connect_cn">当前测试无效的连接类型\n</string>
+    <string name="ethernet_ping_start">Start to Ethernet Ping test,total times: %1$d\n</string>
+    <string name="ethernet_ping_start_cn">开始进行连通性测试，总测试次数：%1$d\n</string>
+    <string name="ethernet_remark_format">Total: %1$d,Pass: %2$d,Fail: N/A</string>
+
+    <!-- USB port -->
+    <string name="x86_usb_app_name">USB</string>
+    <string name="x86_usb_test_title">USB port Test</string>
+    <string name="x86_usb_test_title_cn">USB端口测试</string>
+    <string name="x86_usb_port_1">Port 1</string>
+    <string name="x86_usb_port_1_cn">端口1</string>
+    <string name="x86_usb_port_2">Port 2</string>
+    <string name="x86_usb_port_2_cn">端口2</string>
+    <string name="x86_usb_port_3">Port 3</string>
+    <string name="x86_usb_port_3_cn">端口3</string>
+    <string name="x86_usb_switch_1_to_2">Please insert USB device to Port 2</string>
+    <string name="x86_usb_switch_1_to_2_cn">请将USB设备插入端口2测试</string>
+    <string name="x86_usb_switch_2_to_3">Please insert USB device to Port 3</string>
+    <string name="x86_usb_switch_2_to_3_cn">请将USB设备插入端口3测试</string>
+</resources>

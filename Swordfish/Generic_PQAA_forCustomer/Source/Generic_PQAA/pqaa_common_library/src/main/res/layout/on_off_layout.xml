@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/on_off_title"
+            style="@style/test_content_primary_middle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/on_off_title" >
+        </TextView>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="5dp"
+            android:layout_margin="10dp"
+            android:background="@color/color_divider" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/on_off_interval_title"
+                    style="@style/test_content_primary_middle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/on_off_interval" >
+                </TextView>
+
+                <EditText
+                    android:id="@+id/on_off_interval"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edittext_style"
+                    android:inputType="numberSigned"
+                    android:text="@string/on_off_default_interval"
+                    android:textColor="@color/color_black"
+                    android:textSize="30sp" >
+                </EditText>
+
+                <TextView
+                    android:id="@+id/on_off_interval_unit"
+                    style="@style/test_content_primary_middle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/on_off_interval_unit" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/on_off_left_times_title"
+                    style="@style/test_content_primary_middle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/on_off_left_times" >
+                </TextView>
+
+                <EditText
+                    android:id="@+id/on_off_left_times"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edittext_style"
+                    android:inputType="numberSigned"
+                    android:text="@string/on_off_default_left_times"
+                    android:textColor="@color/color_black"
+                    android:textSize="30sp" >
+                </EditText>
+
+                <TextView
+                    android:id="@+id/on_off_left_times_unit"
+                    style="@style/test_content_primary_middle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/on_off_left_times_unit" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView 
+            android:id="@+id/on_off_result"
+            android:background="@color/color_gray"
+            android:textColor="@color/color_red"
+            style="@style/test_content_primary_middle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textIsSelectable="false" 
+            />
+        
+        <TextView
+            android:id="@+id/on_off_result_log"
+            style="@style/test_content_secondary"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:scrollbars="vertical"
+            android:singleLine="false"
+            android:fadeScrollbars="false"
+            android:textIsSelectable="false" >
+        </TextView>
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+	<include layout="@layout/on_off_button_group" />
+</LinearLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="configchk_test_title">ConfigChk Test</string>
+    <string name="configchk_test_title_cn">系统属性测试</string>
+    <string name="configchk_title_content">TestContent</string>
+    <string name="configchk_title_content_cn">测试内容</string>
+    <string name="configchk_title_range">CompareRange</string>
+    <string name="configchk_title_range_cn">比较范围</string>
+    <string name="configchk_title_value">SystemValue</string>
+    <string name="configchk_title_value_cn">系统值</string>
+    <string name="configchk_title_result">CompareResult</string>
+    <string name="configchk_title_result_cn">比较结果</string>
+    <string name="configchk_item_flash">Flash Size:</string>
+    <string name="configchk_item_flash_cn">Flash大小：</string>
+    <string name="configchk_item_memory">Memory Size:</string>
+    <string name="configchk_item_memory_cn">Memory大小：</string>
+    <string name="configchk_item_os">OS Version:</string>
+    <string name="configchk_item_os_cn">OS版本：</string>
+    <string name="configchk_item_uboot">UBoot Version:</string>
+    <string name="configchk_item_uboot_cn">UBoot版本：</string>
+    <string name="configchk_item_cpu_processor">CPU Processor:</string>
+    <string name="configchk_item_cpu_processor_cn">CPU处理器：</string>
+    <string name="configchk_item_cpu_architecture">CPU architecture:</string>
+    <string name="configchk_item_cpu_architecture_cn">CPU架构：</string>
+    <string name="configchk_item_cpu_revision">CPU revision:</string>
+    <string name="configchk_item_cpu_revision_cn">CPU校正：</string>
+    <string name="configchk_item_cpu_frequency">CPU frequency:</string>
+    <string name="configchk_item_cpu_frequency_cn">CPU频率：</string>
+    <string name="configchk_flash_range">2~30 GB</string>
+    <string name="configchk_memory_range">256~1023 MB</string>
+    <string name="configchk_os_version">K01.03.20111005</string>
+    <string name="configchk_uboot_version">B01.03.20111005</string>
+    <string name="configchk_cpu_processor">ARMv7</string>
+    <string name="configchk_cpu_architecture">7</string>
+    <string name="configchk_cpu_revision">9</string>
+    <string name="configchk_cpu_frequency">100~2500 HZ</string>
+    <string name="configchk_noconfigfile_title">Warning</string>
+    <string name="configchk_noconfigfile_title_cn">警告</string>
+    
+    <string name="configchk_autotest_flashsize_false">Flash size (%1$d) is not in range(%2$d ~ %3$d)!\n</string>
+	<string name="configchk_autotest_flashsize_false_cn">Flash大小(%1$d)不符合设定范围(%2$d ~ %3$d)！\n</string>
+	<string name="configchk_autotest_memorysize_false">Memory size (%1$d) is not in range(%2$d ~ %3$d)!\n</string>
+	<string name="configchk_autotest_memorysize_false_cn">Memory大小(%1$d)不符合设定范围(%2$d ~ %3$d)！\n</string>
+	<string name="configchk_autotest_osversion_false">OS version(%1$s) is not match the setting(%2$s)!\n</string>
+	<string name="configchk_autotest_osversion_false_cn">系统版本(%1$s)不符合设定值(%2$s)！\n</string>
+	<string name="configchk_autotest_cpuprocessor_false">CPU processor(%1$s) is not match the setting(%2$s)!\n</string>
+	<string name="configchk_autotest_cpuprocessor_false_cn">CPU处理器(%1$s)不符合设定值(%2$s)！\n</string>
+	<string name="configchk_autotest_cpuarchitecture_false">CPU architecture(%1$s) is not match the setting(%2$s)!\n</string>
+	<string name="configchk_autotest_cpuarchitecture_false_cn">CPU架构(%1$s)不符合设定值(%2$s)！\n</string>
+	<string name="configchk_autotest_cpufrequency_false">CPU frequency(%1$f) is not in range(%2$d ~ %3$d)!\n</string>
+	<string name="configchk_autotest_cpufrequency_false_cn">CPU频率(%1$f)不符合设定范围(%2$d ~ %3$d)！\n</string>
+	<string name="configchk_autotest_cpurevision_false">CPU revision(%1$s) is not match the setting(%2$s)!\n</string>
+	<string name="configchk_autotest_cpurevision_false_cn">CPU校正(%1$s)不符合设定值(%2$s)！\n</string>
+</resources>

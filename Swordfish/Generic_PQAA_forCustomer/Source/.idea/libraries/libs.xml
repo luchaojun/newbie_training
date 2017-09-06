@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/libs/Qrcode_generate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/libs/opencsv-3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/libs/zbar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

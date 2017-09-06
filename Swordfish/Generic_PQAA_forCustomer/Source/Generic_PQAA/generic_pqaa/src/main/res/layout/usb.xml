@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="match_parent"
+	>
+	<TextView
+		android:id="@+id/usb_prompt"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/USB_prompt"
+		android:textSize="24dip"
+		/>
+<LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    >
+<TextView  
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:text="@string/USB_state"
+    android:textColor="#ffabdeee"
+    />
+<TextView
+	android:id="@+id/usb_status"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	/>
+<LinearLayout
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal"
+	android:gravity="center"
+	>
+	<Button
+		android:id="@+id/usb_pass_exit"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/Button_Pass_Exit"
+		/>
+	<Button
+		android:id="@+id/usb_fail_exit"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/Button_Fail_Exit"
+		/>
+</LinearLayout>
+</LinearLayout>
+</LinearLayout>

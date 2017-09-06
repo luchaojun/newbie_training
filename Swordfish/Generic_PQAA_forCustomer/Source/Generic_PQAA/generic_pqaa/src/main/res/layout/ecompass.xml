@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <LinearLayout
+            android:id="@+id/ecompass_value_detect"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/compass_caution"
+                style="@style/test_content_primary_middle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/compass_caution"
+                android:textColor="@color/color_red" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:id="@+id/compass_panel"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:scaleType="centerInside"
+                    android:contentDescription="@string/test_string"
+                    android:src="@drawable/panel"
+                     />
+                <!-- android:src="@drawable/panel" -->
+
+                <ImageView
+                    android:id="@+id/compass_top"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:contentDescription="@string/test_string"
+                     />
+                <!-- android:src="@drawable/top" -->
+                <!--
+     		<com.wistron.compass.CompassShow
+			android:id="@+id/top"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			
+			/>
+                -->
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ecompass_module_detect"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <include layout="@layout/time_countdown_layout"/>
+
+            <TextView
+                android:id="@+id/sensor_sensor"
+                style="@style/test_content_primary_middle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <!--
+             <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ffffff" />
+        -->
+
+        <Button
+            android:id="@+id/compass_fail_button"
+            style="@style/test_button"
+            android:text="@string/button_fail"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/compass_detect_button"
+            style="@style/test_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/button_detect" />
+
+        <Button
+            android:id="@+id/compass_pass_button"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_pass"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

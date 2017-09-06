@@ -1,0 +1,87 @@
+<resources>
+
+    <string name="app_name">PQAA_Common</string>
+    <string name="test_string">Test</string>
+    <string name="test_title">Test</string>
+    
+    <!--  -->
+    <string name="unknown">Unknown</string>
+    <string name="unknown_cn">未知</string>
+    <string name="noconfigfile_msg">Can\'t find the config file, will to test with default value.</string>
+    <string name="noconfigfile_msg_cn">未发现配置文件，将使用默认值进行测试.</string>
+    <string name="bind_service_fail">Fail to bind service!</string>
+    <string name="bind_service_fail_cn">绑定服务失败！</string>
+    <string name="start_service_fail">Fail to start service!</string>
+    <string name="start_service_fail_cn">开启服务失败！</string>
+    <string name="confirm_exit">Press one more time to exit!</string>
+    <string name="confirm_exit_cn">再按一次退出！</string>
+    
+    <!-- Common button -->
+    <string name="button_start">Start</string>
+    <string name="button_start_cn">开始</string>
+    <string name="button_pass">Pass</string>
+    <string name="button_pass_cn">通过</string>
+    <string name="button_fail">Fail</string>
+    <string name="button_fail_cn">失败</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_exit_cn">退出</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_stop_cn">结束</string>
+    <string name="button_ok">OK</string>
+    <string name="button_ok_cn">确定</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_cancel_cn">取消</string>
+    
+    <!-- Left time format -->
+    <string name="total_time">TotalTime: </string>
+    <string name="total_time_cn">总时间: </string>
+    <string name="remain_time">RemainTime: </string>
+    <string name="remain_time_cn">剩余时间: </string>
+    <string name="idle_time">IdleTime: </string>
+    <string name="idle_time_cn">空闲时间: </string>
+    <string name="manual_testresult">TestResult&#8230;</string>
+    <string name="manual_testresult_cn">请选择测试结果&#8230;</string>
+    <string name="test_timeout">Test timeout!</string>
+    <string name="test_timeout_cn">测试超时!</string>
+    
+    <!-- Lock key -->
+    <string name="device_not_match_lock_key">Device isn\'t match the lock key,you can\'t run this app!</string>
+    <string name="device_not_match_lock_key_cn">由于当前设备与程序锁不匹配，因此您无法运行此程序！</string>
+    
+    <!-- Version info -->
+    <string name="version_info">V%1$s - Build %2$d</string>
+    
+    <!-- On/Off test -->
+    <string name="on_off_title">On/Off test</string>
+    <string name="on_off_interval">Interval:</string>
+    <string name="on_off_interval_cn">时间间隔：</string>
+    <string name="on_off_left_times">Remain:</string>
+    <string name="on_off_left_times_cn">剩余次数：</string>
+    <string name="on_off_default_interval">10</string>
+    <string name="on_off_default_left_times">5</string>
+    <string name="on_off_interval_unit">(sec)</string>
+    <string name="on_off_interval_unit_cn">（秒）</string>
+    <string name="on_off_left_times_unit">(times)</string>
+    <string name="on_off_left_times_unit_cn">（次）</string>
+    <string name="on_off_result">Total:%1$d, Pass:%2$d, Fail:%3$d </string>
+    <string name="on_off_result_cn">总共：%1$d, 通过：%2$d, 失败：%3$d </string>
+    
+    <!-- WCIS remark format -->
+    <string name="wcis_remark_format">Total:%1$d, Pass:%2$d, Fail:%3$d</string>
+    <string name="wcis_remark_format_finish">Total:%4$d, Finish:%1$d, Pass:%2$d, Fail:%3$d</string>
+    <string name="wcis_remark_format_finish_time">Total:%1$d, Finish:%2$d</string>
+    
+    <!-- Common -->
+    <string name="confirm">Confirm</string>
+    <string name="confirm_cn">确认</string>
+    <string name="pass">PASS</string>
+    <string name="pass_cn">通过</string>
+    <string name="fail">FAILED</string>
+    <string name="fail_cn">失败</string>
+    <string name="ok">OK</string>
+    <string name="ok_cn">退出</string>
+    <string name="quit">Exit</string>
+    
+    <!-- Memory log file format -->
+	<string name="memory_log_format_cycles">TotalRAM: %1$dMB,FreeRAM: %2$dMB,TestCycles: %3$d.\n</string>
+</resources>

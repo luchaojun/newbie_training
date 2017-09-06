@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical"
+    tools:context=".HDMI" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="20dp"
+        android:layout_weight="1" >
+
+        <SurfaceView
+            android:id="@+id/hdmi_qrcode_decode"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.wistron.generic.hdmi.FindView
+            android:id="@+id/hdmi_qrcode_find"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <SurfaceView
+            android:id="@+id/hdmi_qrcode_generate"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <include
+            android:id="@+id/time_countdown_layout"
+            layout="@layout/time_countdown_layout" />
+    </FrameLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/hdmi_start"
+            style="@style/test_button"
+            android:text="@string/button_start"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/hdmi_exit"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_exit" />
+    </RelativeLayout>
+
+</LinearLayout>

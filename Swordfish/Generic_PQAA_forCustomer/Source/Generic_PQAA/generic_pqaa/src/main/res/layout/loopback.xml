@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/audioloopback_dtmf_wave"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:visibility="gone" />
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:stretchColumns="1" >
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/audioloopback_title_dtmf_set"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/audio_loopback_dtmf_set" />
+
+                <EditText
+                    android:id="@+id/audioloopback_dtmf_set"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edittext_style"
+                    android:inputType="phone"
+                    android:focusable="false"
+                    android:singleLine="true" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/audioloopback_dtmf_decode_normal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/audioloopback_dtmf_decode_normal_title"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/audio_loopback_dtmf_decode" />
+
+                <EditText
+                    android:id="@+id/audioloopback_dtmf_decode_normal_value"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="phone"
+                    android:background="@drawable/edittext_style"
+                    android:focusable="false"
+                    android:singleLine="true" />
+            </TableRow>
+			
+            <TableRow
+                android:id="@+id/audioloopback_dtmf_decode_mp3"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/audioloopback_dtmf_decode_mp3_title"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/audio_loopback_dtmf_decode_mp3" />
+
+                <EditText
+                    android:id="@+id/audioloopback_dtmf_decode_mp3_value"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="phone"
+                    android:background="@drawable/edittext_style"
+                    android:focusable="false"
+                    android:singleLine="true" />
+            </TableRow>
+            
+            <TableRow
+                android:id="@+id/audioloopback_dtmf_decode_ogg"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/audioloopback_dtmf_decode_ogg_title"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/audio_loopback_dtmf_decode_ogg" />
+
+                <EditText
+                    android:id="@+id/audioloopback_dtmf_decode_ogg_value"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="phone"
+                    android:background="@drawable/edittext_style"
+                    android:focusable="false"
+                    android:singleLine="true" />
+            </TableRow>
+            
+            <TableRow
+                android:id="@+id/audioloopback_dtmf_decode_aac"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/audioloopback_dtmf_decode_aac_title"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/audio_loopback_decode_aac" />
+
+                <EditText
+                    android:id="@+id/audioloopback_dtmf_decode_aac_value"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="phone"
+                    android:background="@drawable/edittext_style"
+                    android:focusable="false"
+                    android:singleLine="true" />
+            </TableRow>
+            
+            <TableRow
+                android:id="@+id/audioloopback_dtmf_decode_wav"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/audioloopback_dtmf_decode_wav_title"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/audio_loopback_dtmf_decode_wav" />
+
+                <EditText
+                    android:id="@+id/audioloopback_dtmf_decode_wav_value"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="phone"
+                    android:background="@drawable/edittext_style"
+                    android:focusable="false"
+                    android:singleLine="true" />
+            </TableRow>
+        </TableLayout>
+        
+        <TextView 
+            android:id="@+id/audioloopback_decode_result"
+            android:background="@color/color_gray"
+            android:textColor="@color/color_red"
+            style="@style/test_content_primary_middle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textIsSelectable="false" 
+            />
+        
+        <com.wistron.pqaa_common.jar.global.WisAutoScrollTextView
+            android:id="@+id/audioloopback_decode_result_log"
+            style="@style/test_content_secondary"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:scrollbars="vertical"
+            android:singleLine="false"
+            android:fadeScrollbars="false"
+            android:textIsSelectable="false" />
+
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:id="@+id/audioloopback_button_group"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/button_state"
+            style="@style/test_button"
+            android:text="@string/button_start" >
+        </Button>
+
+        <Button
+            android:id="@+id/button_exit"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_exit" >
+        </Button>
+    </RelativeLayout>
+
+</LinearLayout>

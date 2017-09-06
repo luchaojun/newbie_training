@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_Cash_Drawer/build/intermediates/res/merged/debug/drawable-mdpi-v4/alert_dialog_icon.png",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/drawable-mdpi-v4/alert_dialog_icon.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_Cash_Drawer/build/intermediates/res/merged/debug/drawable-mdpi-v4/pass.bmp",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/drawable-mdpi-v4/pass.bmp"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_Cash_Drawer/build/intermediates/res/merged/debug/drawable-mdpi-v4/failed.bmp",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/drawable-mdpi-v4/failed.bmp"
+    }
+]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="psensor_test_title">ProximitySensor Test</string>
+    <string name="psensor_test_title_cn">距离感应器测试</string>
+    <string name="psensor_unavailable">ProximitySensor is unavailable!</string>
+    <string name="psensor_unavailable_cn">距离感应器不可用!</string>
+</resources>

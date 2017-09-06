@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="20dp"
+        android:layout_weight="1" >
+
+        <TextView
+            android:id="@+id/tv_hall_sensor"
+            style="@style/test_content_primary_large"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/hall_sensor_hint" />
+
+        <include
+            android:id="@+id/time_countdown_layout"
+            layout="@layout/time_countdown_layout" />
+    </FrameLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/hallsensor_exit"
+            style="@style/test_button"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="@string/button_exit" />
+
+    </RelativeLayout>
+
+</LinearLayout>

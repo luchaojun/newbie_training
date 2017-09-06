@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/track_one"
+        style="@style/test_button"
+        android:layout_weight="1"
+        android:text="1" />
+
+    <Button
+        android:id="@+id/track_two"
+        style="@style/test_button"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:text="2" />
+
+    <Button
+        android:id="@+id/track_three"
+        style="@style/test_button"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:text="3" />
+
+    <Button
+        android:id="@+id/track_four"
+        style="@style/test_button"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:text="4" />
+
+    <Button
+        android:id="@+id/track_five"
+        style="@style/test_button"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:text="5" />
+
+    <Button
+        android:id="@+id/ng_button"
+        style="@style/test_button"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:text="NG" />
+
+</LinearLayout>

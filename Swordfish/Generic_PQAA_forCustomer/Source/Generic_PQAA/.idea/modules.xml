@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA.iml" filepath="$PROJECT_DIR$/Generic_PQAA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic_pqaa/generic_pqaa.iml" filepath="$PROJECT_DIR$/generic_pqaa/generic_pqaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pqaa_common_library/pqaa_common_library.iml" filepath="$PROJECT_DIR$/pqaa_common_library/pqaa_common_library.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="bluetooth_test_title">Bluetooth Test</string>
+    <string name="bluetooth_test_title_cn">蓝牙测试</string>
+    <string name="bluetooth_dialog_title">Bluetooth</string>
+    <string name="bluetooth_dialog_title_cn">蓝牙</string>
+    <string name="bluetooth_open_bt_dialog_msg">Bluetooth is turning on&#8230;</string>
+    <string name="bluetooth_open_bt_dialog_msg_cn">正在打开蓝牙&#8230;</string>
+    <string name="bluetooth_get_mac_dialog_msg">Getting the Bluetooth MAC address&#8230;  %1$d</string>
+    <string name="bluetooth_get_mac_dialog_msg_cn">正在获取蓝牙物理地址&#8230;  %1$d</string>
+    <string name="bluetooth_disable">Bluetooth is not available</string>
+    <string name="bluetooth_disable_cn">蓝牙不可用</string>
+    <string name="bluetooth_cannot_open">Bluetooth can\'t open</string>
+    <string name="bluetooth_cannot_open_cn">蓝牙不可开启</string>
+    <string name="bluetooth_local_address">Local Address: %1$s</string>
+    <string name="bluetooth_local_address_cn">物理地址: %1$s</string>
+    <string name="bluetooth_info">Bluetooth Information:</string>
+    <string name="bluetooth_scanning">scanning for devices&#8230;</string>
+    <string name="bluetooth_select_device">select a device to connect</string>
+    <string name="bluetooth_none_paired">No devices have been paired</string>
+    <string name="bluetooth_none_paired_cn">没有配对过的设备</string>
+    <string name="bluetooth_none_found">No devices have been found</string>
+    <string name="bluetooth_none_found_cn">没有扫描到设备</string>
+    <string name="bluetooth_title_paired_devices">Paired Devices</string>
+    <string name="bluetooth_title_paired_devices_cn">已配对过的设备列表</string>
+    <string name="bluetooth_title_other_devices">Other Available Devices</string>
+    <string name="bluetooth_title_other_devices_cn">其他可用的设备列表</string>
+    <string name="button_scan">Scan</string>
+    <string name="button_scan_cn">扫描</string>
+    
+    <!-- Auto test -->
+    <string name="bluetooth_enabled">Bluetooth has opened!</string>
+    <string name="bluetooth_enabled_cn">蓝牙已开启!</string>
+    <string name="bluetooth_start_discovery">Searching the bluetooth devices&#8230;  %1$d</string>
+    <string name="bluetooth_start_discovery_cn">正在搜索蓝牙设备&#8230;  %1$d</string>
+    <string name="bluetooth_stop_discovery">Stop to search the bluetooth devices</string>
+    <string name="bluetooth_stop_discovery_cn">停止搜索蓝牙设备</string>
+    <string name="bluetooth_timeout_get_mac_address">Timeout to get the MAC address of Bluetooth</string>
+    <string name="bluetooth_timeout_get_mac_address_cn">获取蓝牙物理地址超时</string>
+    <string name="bluetooth_found_paired_count">Have found %1$d paired devices</string>
+    <string name="bluetooth_found_paired_count_cn">已发现 %1$d 个配对过的蓝牙设备</string>
+    <string name="bluetooth_found_new_count">Have found %1$d other devices</string>
+    <string name="bluetooth_found_new_count_cn">已发现 %1$d 个其他可用蓝牙设备</string>
+    
+</resources>

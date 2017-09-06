@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/vibration_prompt"
+            style="@style/test_content_primary_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vibration_warning_msg" />
+
+        <TextView
+            android:id="@+id/gsensor_value"
+            style="@style/test_content_primary_low"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp" />
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="invisible" >
+
+        <Button
+            android:id="@+id/vibration_start"
+            style="@style/test_button"
+            android:text="@string/button_start" />
+
+        <Button
+            android:id="@+id/vibration_fail"
+            style="@style/test_button"
+            android:layout_centerInParent="true"
+            android:text="@string/button_fail" />
+
+        <Button
+            android:id="@+id/vibration_pass"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_pass" />
+    </RelativeLayout>
+
+</LinearLayout>

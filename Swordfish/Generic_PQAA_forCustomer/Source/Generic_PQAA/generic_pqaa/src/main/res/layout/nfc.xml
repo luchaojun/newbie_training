@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <include layout="@layout/time_countdown_layout" />
+
+    <LinearLayout
+        android:id="@+id/nfc_pcba_section"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/nfc_support"
+            style="@style/test_content_primary_large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nfc_do_detect"
+            android:textIsSelectable="false"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/nfc_fa_section"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/nfc_write_section"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/nfc_write_title"
+                style="@style/test_content_primary_large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/color_blue"
+                android:text="@string/nfc_write_title"
+                android:textIsSelectable="false"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/nfc_write_content"
+                style="@style/test_content_primary_middle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/nfc_write_tips"
+                android:textColor="@color/color_red"
+                android:textIsSelectable="false"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/nfc_read_section"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/nfc_read_title"
+                style="@style/test_content_primary_large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/color_blue"
+                android:text="@string/nfc_read_title"
+                android:textIsSelectable="false"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/nfc_read_content"
+                style="@style/test_content_primary_middle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/nfc_read_tips"
+                android:textColor="@color/color_red"
+                android:textIsSelectable="false"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <Button
+        android:id="@+id/nfc_write_tag"
+        style="@style/test_button"
+        android:visibility="invisible" />
+
+</LinearLayout>

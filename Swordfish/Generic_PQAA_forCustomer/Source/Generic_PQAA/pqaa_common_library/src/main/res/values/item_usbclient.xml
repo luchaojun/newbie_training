@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="usbclient_test_title">USBClient Test</string>
+    <string name="usbclient_test_title_cn">USB客户端测试</string>
+    <string name="usbclient_prompt">Please plug in USB cable to computer:</string>
+    <string name="usbclient_prompt_cn">请將USB线接入PC端：</string>
+    <string name="usbclient_mount">usb has been mounted</string>
+    <string name="usbclient_mount_cn">USB已接入</string>
+    <string name="usbclient_unmount">usb has been removed</string>
+    <string name="usbclient_unmount_cn">USB已移除</string>
+    
+    <!-- Auto test -->
+    <string name="usbclient_state_plugin">USB cable has plugged in</string>
+	<string name="usbclient_state_plugin_cn">USB已接入</string>
+    <string name="usbclient_state_no_found">Can\'t detect USB connect</string>
+    <string name="usbclient_state_no_found_cn">未检测到USB接入</string>
+    
+</resources>

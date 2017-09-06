@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            >
+
+			<ProgressBar
+			    android:id="@+id/gps_progress"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:indeterminate="true"
+			    />
+
+            <TextView
+                android:id="@+id/gps_location"
+                style="@style/test_content_primary_middle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/gps_satellite"
+            style="@style/test_listview"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" >
+        </ListView>
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="invisible" >
+
+        <Button
+            android:id="@+id/gps_start"
+            style="@style/test_button"
+            android:layout_alignParentLeft="true"
+            android:text="@string/button_start" />
+
+        <Button
+            android:id="@+id/gps_exit"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_exit" />
+    </RelativeLayout>
+
+    <!--
+     <com.google.android.maps.MapView
+	android:id="@+id/gps_map"
+	android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:apiKey="049Hl2PSFxTQBQsMWV3BtQmrJ_cZAdrlOnRRqUg"
+	/>
+    -->
+
+</LinearLayout>

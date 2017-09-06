@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+<!--     <TextView
+        style="@style/test_content_primary_middle"
+        android:id="@+id/mytextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/led_warn"
+        android:textIsSelectable="false"
+        />
+ -->
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+    </RelativeLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:visibility="invisible">
+
+        <Button
+            android:id="@+id/led_pass"
+            style="@style/test_button"
+            android:text="@string/button_pass" />
+
+        <Button
+            android:id="@+id/led_fail"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_fail" />
+    </RelativeLayout>
+
+</LinearLayout>

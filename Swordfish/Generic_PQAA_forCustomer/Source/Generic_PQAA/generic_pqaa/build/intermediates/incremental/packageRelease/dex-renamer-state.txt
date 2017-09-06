@@ -1,0 +1,4 @@
+#Wed May 03 15:52:54 CST 2017
+base.0=/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

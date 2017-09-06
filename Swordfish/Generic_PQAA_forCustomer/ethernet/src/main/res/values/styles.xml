@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button_test_style" parent="test_content_primary_large">
+        <item name="android:button">@drawable/button_test_drawable</item>
+        <item name="android:enabled">false</item>
+        <item name="android:text">@string/test_string</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:checked">false</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+</resources>

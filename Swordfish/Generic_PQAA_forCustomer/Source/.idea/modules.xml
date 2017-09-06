@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/21.0.3.iml" filepath="$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/21.0.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/23.2.1.iml" filepath="$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/23.2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/build/generated/source/aidl/aidl.iml" filepath="$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/build/generated/source/aidl/aidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/generated/source/aidl/aidl1.iml" filepath="$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/generated/source/aidl/aidl1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/src/main/main.iml" filepath="$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/src/main/main1.iml" filepath="$PROJECT_DIR$/Generic_PQAA/generic_pqaa/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/generated/source/r/r1.iml" filepath="$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/generated/source/r/r1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/build/intermediates/manifests/aapt/release/release.iml" filepath="$PROJECT_DIR$/Generic_PQAA/pqaa_common_library/build/intermediates/manifests/aapt/release/release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/unspecified.iml" filepath="$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/unspecified.iml" />
+    </modules>
+  </component>
+</project>

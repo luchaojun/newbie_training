@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/zbar_317788ae8e7ff400611ae16bd38a734d7dbdb9f9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/Qrcode_generate_3833cd8cae01374e4ce0bfda89359e95b0c8458f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/internal_impl-21.0.3_ca087b8108fc9b150181f02b0474c52238554244.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-21.0.3_16bd4fc70906a3552a1a636c872e646edcdbbc81.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/Generic_PQAA-pqaa_common_library-unspecified_1052a5f3f922f6b1670ef56ad64bda99c7f0eca6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/com.android.support-support-v4-21.0.3_1c8b9cb9372dcdd5c377b7bea6b4b7e23aecc494.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/release_d39ec2c7133e907ab97e58d6c5ec551724a4a59f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/opencsv-3.7_493273f3c418f86dd80b196305dc33162a380eaf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/support-annotations-21.0.3_4fd244b5c1fa3bd43a90956e2badf82c9d9d89a7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

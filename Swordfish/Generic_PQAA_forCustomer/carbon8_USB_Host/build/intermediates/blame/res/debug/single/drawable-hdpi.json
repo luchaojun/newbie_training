@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/drawable-hdpi/usbhost.png",
+        "source": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/src/main/res/drawable-hdpi/usbhost.png"
+    }
+]

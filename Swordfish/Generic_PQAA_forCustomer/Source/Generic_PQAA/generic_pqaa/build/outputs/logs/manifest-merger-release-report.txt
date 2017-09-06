@@ -1,0 +1,539 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:2:1-389:12
+	package
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml
+		INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml
+	android:sharedUserId
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:6:5-46
+	android:versionName
+		INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml
+		INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:5:5-51
+	xmlns:android
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:4:5-63
+	android:versionCode
+		INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml
+		INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml
+application
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:9:5-336:19
+MERGED from [Generic_PQAA:pqaa_common_library:unspecified] /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:10:9-46
+	android:allowBackup
+		ADDED from [Generic_PQAA:pqaa_common_library:unspecified] /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/AndroidManifest.xml:12:9-35
+provider#com.wistron.generic.pqaa.utility.DataContentProvider
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:12:9-15:20
+	android:authorities
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:14:13-77
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:13:13-56
+activity#com.wistron.generic.pqaa.TestItemsList
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:17:9-27:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:20:13-50
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:19:13-74
+	android:theme
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:18:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:25:27-74
+activity#com.wistron.generic.touchpanel.TouchPanel
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:28:9-36:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:32:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:31:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:29:13-69
+intent-filter#android.intent.action.MAIN
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:33:13-35:29
+activity#com.wistron.generic.cameraled.Camera_LED
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:37:9-46:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:42:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:39:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:41:13-170
+	android:theme
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:40:13-77
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:38:13-68
+activity#com.wistron.generic.touchpanel.TouchPanelTest
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:47:9-51:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:50:13-50
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:48:13-73
+activity#com.wistron.generic.sdcard.SDCard
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:52:9-60:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:56:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:55:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:54:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:53:13-61
+activity#com.wistron.generic.display.Display
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:61:9-69:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:65:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:64:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:63:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:62:13-63
+activity#com.wistron.generic.display.graphics
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:70:9-73:52
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:73:13-50
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:72:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:71:13-64
+activity#com.wistron.generic.brightness.Brightness
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:74:9-82:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:78:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:77:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:76:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:75:13-69
+activity#com.wistron.generic.monipower.MoniPower
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:83:9-91:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:87:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:86:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:85:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:84:13-67
+activity#com.wistron.generic.audio.Audio
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:93:9-101:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:97:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:96:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:95:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:94:13-59
+activity#com.wistron.generic.audio.loopback.AudioLoopback
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:102:9-111:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:106:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:105:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:104:13-74
+	android:theme
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:107:13-77
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:103:13-76
+activity#com.wistron.generic.hdmi.HDMI
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:112:9-121:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:116:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:115:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:114:13-74
+	android:theme
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:117:13-77
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:113:13-57
+activity#com.wistron.generic.hdmi.VidPlayback
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:122:9-131:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:126:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:125:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:124:13-74
+	android:theme
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:127:13-77
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:123:13-64
+activity#com.wistron.generic.lightsensor.LightSensorTest
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:133:9-141:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:137:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:136:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:135:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:134:13-75
+activity#com.wistron.generic.gsensor.GSensorTest
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:142:9-150:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:146:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:145:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:144:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:143:13-67
+activity#com.wistron.generic.gyrosensor.GyroSensor
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:151:9-159:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:155:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:154:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:153:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:152:13-69
+activity#com.wistron.generic.proximitysensor.ProximitySensorTest
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:160:9-168:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:164:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:163:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:162:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:161:13-83
+activity#com.wistron.generic.compass.Compass_Test
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:169:9-177:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:173:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:172:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:171:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:170:13-68
+activity#com.wistron.generic.bluetooth.BlueTooth
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:179:9-188:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:183:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:182:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:181:13-74
+	android:theme
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:184:13-77
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:180:13-67
+activity#com.wistron.generic.vibration.Vibration
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:189:9-197:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:193:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:192:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:191:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:190:13-67
+activity#com.wistron.generic.wifi.Wireless
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:198:9-206:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:202:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:201:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:200:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:199:13-61
+activity#com.wistron.generic.nfc.NFC
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:207:9-230:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:211:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:210:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:209:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:208:13-55
+intent-filter#android.nfc.action.TAG_DISCOVERED
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:227:13-229:29
+action#android.nfc.action.TAG_DISCOVERED
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:228:17-75
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:228:25-73
+activity#com.wistron.generic.camera.WisCamera
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:232:9-240:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:236:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:235:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:234:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:233:13-64
+activity#com.wistron.generic.configchk.ConfigChk
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:241:9-249:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:245:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:244:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:243:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:242:13-67
+activity#com.wistron.generic.multitouch.MultiTouch
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:250:9-258:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:254:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:253:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:252:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:251:13-69
+activity#com.wistron.generic.ram.RAM
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:259:9-267:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:263:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:262:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:261:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:260:13-55
+activity#com.wistron.generic.headset.loopback.AudioLoopback
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:268:9-276:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:272:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:271:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:270:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:269:13-78
+service#com.wistron.generic.headset.loopback.AudioLoopbackService
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:278:9-285:19
+	android:enabled
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:280:13-35
+	android:exported
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:281:13-36
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:279:13-85
+intent-filter#com.wistron.audio.loopback.headset
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:282:13-284:29
+action#com.wistron.audio.loopback.headset
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:283:17-76
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:283:25-74
+activity#com.wistron.generic.gps.GPS
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:287:9-296:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:292:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:290:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:289:13-74
+	android:theme
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:291:13-77
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:288:13-55
+activity#com.wistron.generic.button.ButtonTest
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:298:9-306:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:302:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:301:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:300:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:299:13-65
+activity#com.wistron.generic.barometersensor.BarometerSensor
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:308:9-316:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:312:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:311:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:310:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:309:13-79
+activity#com.wistron.generic.sensor.MainActivity
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:318:9-326:20
+	android:screenOrientation
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:322:13-50
+	android:label
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:321:13-45
+	android:configChanges
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:320:13-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:319:13-67
+service#com.wistron.generic.gps.GPSService
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:328:9-335:19
+	android:enabled
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:330:13-35
+	android:exported
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:331:13-36
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:329:13-62
+intent-filter#com.wistron.gps
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:332:13-334:29
+action#com.wistron.gps
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:333:17-57
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:333:25-55
+permission#TestItemsList
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:338:5-341:18
+	android:protectionLevel
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:340:9-52
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:339:9-37
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:343:5-80
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:343:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:344:5-72
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:344:22-70
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:345:5-70
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:345:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:346:5-79
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:346:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:347:5-67
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:347:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:348:5-78
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:348:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:349:5-88
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:349:22-86
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:350:5-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:350:22-72
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:352:5-73
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:352:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:353:5-67
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:353:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:354:5-80
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:354:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:355:5-65
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:355:22-63
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:356:5-78
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:356:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:357:5-75
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:357:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:359:5-78
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:359:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:360:5-75
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:360:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:361:5-66
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:361:22-64
+uses-permission#android.permission.NFC
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:363:5-61
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:363:22-59
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:365:5-80
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:365:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:366:5-77
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:366:22-75
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:367:5-74
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:367:22-72
+uses-permission#android.permission.TRANSMIT_IR
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:368:5-69
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:368:22-67
+uses-feature#android.hardware.consumerir
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:370:5-63
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:370:19-61
+uses-feature#android.hardware.nfc
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:371:5-374:20
+	android:required
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:373:9-32
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:372:9-44
+uses-permission#android.permission.CAMERA
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:376:5-64
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:376:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:378:5-59
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:378:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:379:5-69
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:379:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:381:5-68
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:381:22-66
+permission#android.permission.FLASHLIGHT
+ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:383:5-387:18
+	android:protectionLevel
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:386:9-41
+	android:permissionGroup
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:385:9-77
+	android:name
+		ADDED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml:384:9-53
+uses-sdk
+INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Generic_PQAA:pqaa_common_library:unspecified] /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml
+		INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml
+		INJECTED from /home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/src/main/AndroidManifest.xml

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_Printer/build/intermediates/res/merged/debug/anim/about_dismiss_animation.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/anim/about_dismiss_animation.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_Printer/build/intermediates/res/merged/debug/anim/about_show_animation.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/anim/about_show_animation.xml"
+    }
+]

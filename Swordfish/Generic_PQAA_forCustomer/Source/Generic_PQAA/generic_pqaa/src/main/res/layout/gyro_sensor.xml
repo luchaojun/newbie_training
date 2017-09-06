@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/remaintime"
+                style="@style/test_content_time" />
+
+            <TextView
+                android:id="@+id/totaltime"
+                style="@style/test_content_time" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/sensor_tips"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sensor_tips"
+            android:visibility="gone" />
+
+        <SeekBar
+            android:id="@+id/sensor_range"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:max="10"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/sensor_sensor"
+            style="@style/test_content_primary_middle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/sensor_data"
+            style="@style/test_content_primary_middle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp" />
+
+        <TextView
+            android:id="@+id/sensor_xvalue"
+            style="@style/test_content_primary_middle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp" />
+
+        <TextView
+            android:id="@+id/sensor_yvalue"
+            style="@style/test_content_primary_middle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp" />
+
+        <TextView
+            android:id="@+id/sensor_zvalue"
+            style="@style/test_content_primary_middle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp" />
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:visibility="invisible" >
+
+        <Button
+            android:id="@+id/sensor_fail"
+            style="@style/test_button"
+            android:text="@string/button_fail" />
+
+        <Button
+            android:id="@+id/sensor_pass"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_pass" />
+    </RelativeLayout>
+
+</LinearLayout>

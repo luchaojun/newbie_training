@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monipower_test_title">MoniPower Test</string>
+    <string name="monipower_test_title_cn">电源检测测试</string>
+    <string name="monipower_status">Battery Status: </string>
+    <string name="monipower_status_cn">电池状态：</string>
+    <string name="monipower_present">Battery present:</string>
+    <string name="monipower_present_cn">电池存在：</string>
+    <string name="monipower_plug">Power plug: </string>
+    <string name="monipower_plug_cn">供电源：</string>
+    <string name="monipower_level">Battery level: </string>
+    <string name="monipower_level_cn">电池当前电量：</string>
+    <string name="monipower_scale">Battery scale: </string>
+    <string name="monipower_scale_cn">电池总电量：</string>
+    <string name="monipower_health">Battery health: </string>
+    <string name="monipower_health_cn">电池健康度：</string>
+    <string name="monipower_voltage">Battery voltage: </string>
+    <string name="monipower_voltage_cn">电池电压：</string>
+    <string name="monipower_temperature">Battery temperature: </string>
+    <string name="monipower_temperature_cn">电池温度：</string>
+    <string name="monipower_technology">Battery technology: </string>
+    <string name="monipower_technology_cn">电池结构：</string>
+    <string name="monipower_time">Time since boot: </string>
+    <string name="monipower_time_cn">开机时间：</string>
+    
+    <string name="monipower_present_true">true</string>
+    <string name="monipower_present_true_cn">是</string>
+    <string name="monipower_present_false">false</string>
+	<string name="monipower_present_false_cn">否</string>
+	
+	<string name="monipower_autotest_present_false">No battery can be detected!\n</string>
+	<string name="monipower_autotest_present_false_cn">未检测到电池！\n</string>
+	<string name="monipower_autotest_voltage_false">The voltage is not match the range!\n</string>
+	<string name="monipower_autotest_voltage_false_cn">电压不符合标准设定！\n</string>
+	<string name="monipower_autotest_status_false">The status (%1$s) is invalid!\n</string>
+	<string name="monipower_autotest_status_false_cn">无效的电池状态(%1$s)！\n</string>
+	<string name="monipower_autotest_plugged_false">The plugged state (On battery) is invalid!\n</string>
+	<string name="monipower_autotest_plugged_false_cn">无效的供电状态(On battery)！\n</string>
+	<string name="monipower_autotest_health_false">The health (%1$s) is invalid!\n</string>
+	<string name="monipower_autotest_health_false_cn">无效的电池健康度(%1$s)！\n</string>
+</resources>

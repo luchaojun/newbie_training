@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:android="http://schemas.android.com/apk/res/android">
+	<items>
+		<item item="PCB"></item>
+		<item item="TouchFW"></item>
+		<item item="Thermal"></item>
+		<item item="ConfigChk"></item>
+		<item item="RTC"></item>
+		<item item="GPS" arg1="30" arg2="0"></item>
+		<item item="SDCard" arg1="1"></item>
+		<item item="MoniPower"></item>
+		<item item="SuspendResume" arg1="1" arg2="20"></item>
+		<item item="Wifi"></item>
+		<item item="BlueTooth" arg1="5"></item>
+		<item item="USBClient" arg1="20"></item>
+		<item item="GSensor" arg1="10"></item>
+		<item item="LightSensor" arg1="10"></item>
+		<item item="ProximitySensor" arg1="10"></item>
+		<item item="3G" arg1="30"></item>
+		<item item="IMEI"></item>
+		<item item="EDID"></item>
+	</items>
+</config>

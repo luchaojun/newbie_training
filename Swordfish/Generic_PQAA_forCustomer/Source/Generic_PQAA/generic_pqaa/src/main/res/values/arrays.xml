@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="Test_Style">
+	<item>Component</item>
+	<item>Saved Config</item>
+</string-array>
+</resources>

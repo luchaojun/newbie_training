@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    >
+<LinearLayout 
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:visibility="gone"
+	>
+	<TextView 
+		android:id="@+id/remaintime"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="right"
+		android:textStyle="bold"
+		android:textSize="20px"
+		android:textColor="@color/red"
+		/>
+	<TextView 
+		android:id="@+id/totaltime"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="right"
+		android:textStyle="bold"
+		android:textSize="20px"
+		android:textColor="@color/red"
+		/>
+</LinearLayout>
+<VideoView android:id="@+id/VideoView01" 
+			android:layout_width="match_parent"
+			android:layout_height="match_parent">
+			</VideoView>
+</LinearLayout>

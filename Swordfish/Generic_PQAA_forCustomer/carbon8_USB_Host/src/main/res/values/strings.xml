@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PQAA!</string>
+    <string name="app_name">Swordfish_USBHost</string>
+    
+    <string name="usbhost_test_title">USBHost Test</string>
+    <string name="usbhost_test_title_cn">USB主机端测试</string>
+    <string name="usbhost_prompt">detect usb device:</string>
+    <string name="usbhost_prompt_cn">正在检测USB设备：</string>
+    <string name="usbhost_mount">usb has been mounted</string>
+    <string name="usbhost_mount_cn">USB已接入</string>
+    <string name="usbhost_unmount">usb has been removed</string>
+    <string name="usbhost_unmount_cn">USB已移除</string>
+    <string name="sdcard_test">Write/Read Test</string>
+    <string name="sdcard_test_cn">读写测试</string>
+    <string name="sdcard_path">Path:</string>
+    <string name="sdcard_path_cn">路径：</string>
+    <string name="sdcard_status">RW Test Status:</string>
+    <string name="sdcard_status_cn">读写测试状态：</string>
+    <string name="sdcard_option">Test Option : </string>
+    <string name="sdcard_option_cn">测试选项： </string>
+    <string name="sdcard_protect">SDCard Protect Test</string>
+    <string name="sdcard_protect_cn">存储卡写保护测试</string>
+    <string name="sdcard_dialog_title">Warning!</string>
+    <string name="sdcard_dialog_title_cn">警告！</string>
+    <string name="sdcard_dialog_msg_plug">Please insert SD card which is portected!</string>
+    <string name="sdcard_dialog_msg_plug_cn">请插入已写保护的存储卡!</string>
+    <string name="sdcard_dialog_msg_deleting">Deleting temp files, please wait for a moment&#8230;</string>
+    <string name="sdcard_dialog_msg_deleting_cn">正在删除临时文件，请稍侯&#8230;</string>
+    <string name="sdcard_nosdcard">There is no SD card</string>
+    <string name="sdcard_nosdcard_cn">未发现存储卡</string>
+    <string name="sdcard_testing">testing&#8230;</string>
+    <string name="sdcard_testing_cn">测试中&#8230;</string>
+    <string name="sdcard_deleting">deleting&#8230;</string>
+    <string name="sdcard_deleting_cn">删除临时文件&#8230;</string>
+
+</resources>

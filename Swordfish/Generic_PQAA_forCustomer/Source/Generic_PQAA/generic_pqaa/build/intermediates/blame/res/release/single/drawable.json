@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_default.9.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_default.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_style.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/progress_bg.9.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/progress_bg.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/listview_style.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/listview_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_off_disable.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_off_disable.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/icon.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/checkbox_style.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/checkbox_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/progress_progress.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/progress_progress.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/radio_style.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/radio_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/spinner_style.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/spinner_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/listview_style.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/listview_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/radio_style.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/radio_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/progress_progress.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/progress_progress.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_normal_blue.9.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_normal_blue.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/icon.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/progress_bg.9.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/progress_bg.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_on_disable.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_on_disable.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_off_disable.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_off_disable.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_dropdown_normal.9.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_dropdown_normal.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_radio_on.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_radio_on.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/edittext_style.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/edittext_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_default.9.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_default.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/spinner_style.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/spinner_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/divider.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_off_disable.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_off_disable.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/checkbox_style.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/checkbox_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_radio_off.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_radio_off.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/progress_style.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/progress_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/listview_style.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/listview_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/progress_progress.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/progress_progress.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/editbox_background.9.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/editbox_background.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_on_disable.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_on_disable.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/progress_bg.9.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/progress_bg.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_normal_disable.9.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_normal_disable.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_style.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_radio_off.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_radio_off.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/editbox_background.9.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/editbox_background.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_on.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_on.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/list_background.9.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/list_background.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/list_background.9.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/list_background.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_radio_off.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_radio_off.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/progress_style.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/progress_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_on.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_on.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/progress_style.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/progress_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/checkbox_style.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/checkbox_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_radio_on.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_radio_on.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/editbox_background.9.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/editbox_background.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_radio_on.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_radio_on.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_normal_blue.9.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_normal_blue.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_normal_disable.9.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_normal_disable.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/edittext_style.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/edittext_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_dropdown_normal.9.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_dropdown_normal.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/divider.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/radio_style.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/radio_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/spinner_style.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/spinner_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_off.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_off.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_off.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_off.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_default.9.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_default.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/icon.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/edittext_style.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/edittext_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_on_disable.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_on_disable.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_dropdown_normal.9.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_dropdown_normal.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_off.png",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_off.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/btn_check_on.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/btn_check_on.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_normal_disable.9.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_normal_disable.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_style.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_style.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/button_normal_blue.9.png",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/button_normal_blue.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/list_background.9.png",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/list_background.9.png"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/divider.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/payne/Payne/Generic_PQAA/PQAA/Generic/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    }
+]

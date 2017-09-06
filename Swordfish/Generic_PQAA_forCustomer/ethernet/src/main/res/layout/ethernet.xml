@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <com.wistron.pqaa_common.jar.global.WisAutoScrollTextView
+        android:id="@+id/ethernet_ping_result"
+        style="@style/test_content_secondary"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:textIsSelectable="false" />
+
+    <include layout="@layout/divider_layout" />
+
+    <Button
+        style="@style/test_button"
+        android:visibility="invisible" />
+</LinearLayout>

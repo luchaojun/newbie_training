@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gps_test_title">GPS Test</string>
+    <string name="gps_test_title_cn">卫星测试</string>
+    <string name="gps_ok">GPS is OK&#8230;</string>
+    <string name="gps_ok_cn">GPS可用&#8230;</string>
+    <string name="gps_none">can\'t detect GPS module&#8230;</string>
+    <string name="gps_none_cn">未侦测到GPS模块&#8230;</string>
+    <string name="gps_dialog_title">GPS</string>
+    <string name="gps_dialog_title_cn">GPS</string>
+    <string name="gps_search_satellite">Searching satellite&#8230;  </string>
+    <string name="gps_search_satellite_cn">正在搜索卫星&#8230;  </string>
+    <string name="gps_satellite_index">Index:\t%1$d</string>
+    <string name="gps_satellite_index_cn">序号:\t%1$d</string>
+    <string name="gps_satellite_snr">SNR:\t%1$f</string>
+    <string name="gps_satellite_snr_cn">信噪比:\t%1$f</string>
+    <string name="gps_search_location">Locating&#8230;  </string>
+    <string name="gps_search_location_cn">正在获取位置信息&#8230;  </string>
+    <string name="gps_location_value">current location:\n</string>
+    <string name="gps_location_value_cn">经纬度:\n</string>
+    <string name="gps_location_longitude_value">Longitude: %1$f\n</string>
+    <string name="gps_location_longitude_value_cn">经度: %1$f\n</string>
+    <string name="gps_location_latitude_value">Latitude: %1$f\n</string>
+    <string name="gps_location_latitude_value_cn">纬度: %1$f\n</string>
+    
+    <!-- Auto test -->
+    <string name="gps_satellite_changed">Satellite has changed------</string>
+    <string name="gps_satellite_changed_cn">更新卫星列表------</string>
+    <string name="gps_location_changed">Location has changed------</string>
+    <string name="gps_location_changed_cn">经纬度更新------</string>
+    <string name="gps_state_fail_satellite">Can\'t match the setting condition!</string>
+    <string name="gps_state_fail_satellite_cn">不符合设定条件！</string>
+    <string name="gps_state_fail_location">Can\'t get the current location!</string>
+    <string name="gps_state_fail_location_cn">未能获取当前经纬度！</string>
+</resources>

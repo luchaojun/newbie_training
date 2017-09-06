@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <include layout="@layout/time_countdown_layout" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal" 
+                android:visibility="gone">
+
+                <ImageButton
+                    android:id="@+id/button_power"
+                    style="@style/keypad_style"
+                    android:contentDescription="@string/keypad_title_power" />
+
+                <TextView
+                    android:id="@+id/text_power"
+                    style="@style/test_content_primary_middle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/keypad_title_power"
+                    android:textIsSelectable="false" />
+            </TableRow>
+
+            <!--
+                <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal" >
+                
+                <ImageButton
+                    android:id="@+id/button_switch"
+                    style="@style/keypad_style"
+                    android:contentDescription="@string/keypad_title_switch" />
+            	
+                <TextView
+                    android:id="@+id/text_switch"
+                    style="@style/test_content_primary_middle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/keypad_title_switch"
+                    android:textIsSelectable="false" />
+				</TableRow>
+            -->
+
+
+            <!--
+                <ImageButton
+                    android:id="@+id/button_lockr"
+                    style="@style/keypad_style"
+                    android:contentDescription="@string/test_string" />
+
+                <TextView
+                    android:id="@+id/text_lockr"
+                    style="@style/test_content_primary_middle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/test_string"
+                    android:textIsSelectable="false" />
+            -->
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <!--
+                <ImageButton
+                    android:id="@+id/button_lockl"
+                    style="@style/keypad_style"
+                    android:contentDescription="@string/test_string" />
+
+                <TextView
+                    android:id="@+id/text_lockl"
+                    style="@style/test_content_primary_middle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/test_string"
+                    android:textIsSelectable="false" />
+                -->
+
+                <ImageButton
+                    android:id="@+id/button_volumeup"
+                    style="@style/keypad_style"
+                    android:contentDescription="@string/keypad_title_volumeup" />
+
+                <TextView
+                    android:id="@+id/text_volumeup"
+                    style="@style/test_content_primary_middle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/keypad_title_volumeup"
+                    android:textIsSelectable="false" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <ImageButton
+                    android:id="@+id/button_volumedown"
+                    style="@style/keypad_style"
+                    android:contentDescription="@string/keypad_title_volumedown" />
+
+                <TextView
+                    android:id="@+id/text_volumedown"
+                    style="@style/test_content_primary_middle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/keypad_title_volumedown"
+                    android:textIsSelectable="false" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible" >
+
+        <Button
+            android:id="@+id/button_fail"
+            style="@style/test_button"
+            android:text="@string/button_fail" />
+
+        <Button
+            android:id="@+id/button_pass"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_pass" />
+    </RelativeLayout>
+
+</LinearLayout>

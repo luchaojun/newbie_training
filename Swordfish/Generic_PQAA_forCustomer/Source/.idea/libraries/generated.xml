@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="generated">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/build/generated/mockable-android-19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/build/generated/mockable-android-23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Generic_PQAA/build/generated/mockable-android-21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

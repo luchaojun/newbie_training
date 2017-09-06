@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_divider_layout" />
+
+    <SurfaceView
+        android:id="@+id/camera_preview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        android:layout_weight="1" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/camera_thumbnail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:contentDescription="@string/test_string"
+            android:scaleType="fitXY" />
+
+        <ToggleButton
+            android:id="@+id/camera_flash"
+            style="@style/test_content_primary_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:checked="false"
+            android:textOff="@string/button_flash"
+            android:textOn="@string/button_flash" />
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/camera_camera_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/camera_frontcamera"
+            style="@style/test_content_primary_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/radio_style"
+            android:text="@string/camera_front" />
+
+        <RadioButton
+            android:id="@+id/camera_backcamera"
+            style="@style/test_content_primary_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:button="@drawable/radio_style"
+            android:checked="true"
+            android:text="@string/camera_back" />
+    </RadioGroup>
+
+    <include layout="@layout/divider_layout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/camera_shoot"
+            style="@style/test_button"
+            android:layout_weight="1"
+            android:text="@string/button_shoot" />
+
+        <Button
+            android:id="@+id/camera_failExit"
+            style="@style/test_button"
+            android:layout_weight="1"
+            android:text="@string/button_fail" />
+
+        <Button
+            android:id="@+id/camera_passExit"
+            style="@style/test_button"
+            android:layout_weight="1"
+            android:text="@string/button_pass" />
+    </LinearLayout>
+
+</LinearLayout>

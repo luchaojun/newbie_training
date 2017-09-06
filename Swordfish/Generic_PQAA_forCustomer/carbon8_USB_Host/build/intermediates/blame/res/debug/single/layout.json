@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/layout/on_off_button_group.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/layout/on_off_button_group.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/layout/on_off_layout.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/layout/on_off_layout.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/layout/divider_layout.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/layout/divider_layout.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/layout/version_layout.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/layout/version_layout.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/layout/simple_list_item_2.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/layout/simple_list_item_2.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/layout/title_divider_layout.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/layout/title_divider_layout.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/layout/result.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/layout/result.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/layout/time_countdown_layout.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/layout/time_countdown_layout.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/layout/usbhost.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/src/main/res/layout/usbhost.xml"
+    },
+    {
+        "merged": "/home/payne/Payne/swordfish/PQAA/carbon8_USB_Host/build/intermediates/res/merged/debug/layout/wistron_spinner_item.xml",
+        "source": "/home/payne/Payne/swordfish/PQAA/pqaa_common_library/build/intermediates/bundles/default/res/layout/wistron_spinner_item.xml"
+    }
+]

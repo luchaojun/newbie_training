@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/version_info"
+    style="@style/test_content_primary_low"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textIsSelectable="false"
+    android:gravity="right" >
+
+</TextView>

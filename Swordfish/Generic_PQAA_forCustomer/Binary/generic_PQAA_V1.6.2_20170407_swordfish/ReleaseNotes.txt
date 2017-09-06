@@ -1,0 +1,169 @@
+BUILD LETTER
+ISSUE DATE
+    04/07/2017
+BUILD DATE
+    04/07/2017
+ORIGINATOR
+    Payne Zhang
+    Payne Zhang@wistron.com
+    EXT: 5744
+PRODUCT DATA
+    O.S List	: Android 5.1
+    VERSION 	: 1.6.2
+  
+ 
+-- Update items:
+	1. change screen lanscape.
+        2. fix CameraLED Window crash issue.
+
+-- Notice:
+	1.Camera-LED need Platform key signed.
+
+--  Verify on platform
+	1.OS Version     : 5.1
+	2.Hardware       : swordfish 
+
+-- Code base leverage::
+	commonLibrary
+
+-- Backup Path
+        Source: SW_Server\Projects\Wistron Android Tools\PQAA\Generic_PQAA\Binary
+        Binary: SW_Server\Projects\Wistron Android Tools\PQAA\Generic_PQAA\Source
+
+----------------------------------------------------------------------------------------------------------------------
+BUILD LETTER
+ISSUE DATE
+    03/28/2017
+BUILD DATE
+    04/05/2017
+ORIGINATOR
+    Payne Zhang
+    Payne Zhang@wistron.com
+    EXT: 5744
+PRODUCT DATA
+    O.S List	 : Android 5.1
+    VERSION 	: 1.6.1
+  
+ 
+-- Update items:
+	1. add camera-LED test.
+        2. delete Proximity sensor in item.
+        3. update wifi: disconnect if it's connected before test.
+
+-- Notice:
+	1.Camera-LED need Platform key signed.
+
+--  Verify on platform
+	1.OS Version     : 5.1
+	2.Hardware       : swordfish 
+
+-- Code base leverage::
+	commonLibrary
+
+-- Backup Path
+        Source: SW_Server\Projects\Wistron Android Tools\PQAA\Generic_PQAA\Binary
+        Binary: SW_Server\Projects\Wistron Android Tools\PQAA\Generic_PQAA\Source
+
+----------------------------------------------------------------------------------------------------------------------
+BUILD LETTER
+ISSUE DATE
+    03/20/2017
+BUILD DATE
+    03/23/2017
+ORIGINATOR
+    Payne Zhang
+    Payne Zhang@wistron.com
+    EXT: 5744
+PRODUCT DATA
+    O.S List	 : Android 5.1
+    VERSION 	: 1.6.0
+  
+ 
+-- Update items:
+	1. fix Monipower test carsh issue.
+        2. fix some Sensor test crash issue.     
+        3. add V+ & V+ button test.
+        4. delete IMEI,CPU architecure and CPU reversion in ConfigChk
+           item because of these information no exist in swordfish.
+        5. add CPU cores and Lan Mac in ConfigChk item.
+        6. add lock-key verify for swordfish.
+        
+
+-- Notice:
+	1.Vibration do not vibrate.
+        2.Proximity unavaliable
+
+--  Verify on platform
+	1.OS Version     : 5.1
+	2.Hardware       : swordfish 
+
+-- Code base leverage::
+	commonLibrary
+
+-- Backup Path
+        Source: SW_Server\Projects\Wistron Android Tools\PQAA\Generic_PQAA\Binary
+        Binary: SW_Server\Projects\Wistron Android Tools\PQAA\Generic_PQAA\Source
+
+----------------------------------------------------------------------------------------------------------------------
+BUILD LETTER
+ISSUE DATE
+    03/16/2017
+BUILD DATE
+    03/17/2016
+ORIGINATOR
+    Payne Zhang
+    Payne Zhang@wistron.com
+    EXT: 5744
+PRODUCT DATA
+    O.S List	 : Android 5.1
+    VERSION 	: 1.5.9
+  
+ 
+-- Update items:
+	1. add GyroSensor.
+        
+--  Verify on platform
+	1.OS Version     : 5.1
+	2.Hardware       : SAMSUNG
+
+-- Code base leverage::
+	commonLibrary
+
+-- Backup Path
+        Source: SW_Server\Projects\Wistron Android Tools\PQAA\Generic_PQAA\Binary
+        Binary: SW_Server\Projects\Wistron Android Tools\PQAA\Generic_PQAA\Source
+
+----------------------------------------------------------------------------------------------------------------------
+BUILD LETTER
+ISSUE DATE
+    11/30/2016
+BUILD DATE
+    12/20/2016
+ORIGINATOR
+    Payne Zhang
+    Payne Zhang@wistron.com
+    EXT: 5744
+PRODUCT DATA
+    O.S List	 : Android 5.1
+    VERSION 	: 1.5.8
+  
+ 
+-- Update items:
+	1. add Barometer/GPS/HDMI/Headsetloopback/Button/sensor item.
+        
+
+-- Known issue:
+	none
+
+--  Verify on platform
+	1.OS Version     : 5.1
+	2.Hardware       : SAMSUNG
+
+-- Code base leverage::
+	commonLibrary
+
+-- Backup Path
+        Source: SW_Server\Projects\Wistron Android Tools\PQAA\Generic_PQAA\Binary
+        Binary: SW_Server\Projects\Wistron Android Tools\PQAA\Generic_PQAA\Source
+
+----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:id="@+id/audio_time_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/audio_plugin_headset_title"
+            style="@style/test_content_primary_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/audio_plugin_headset" />
+
+        <include layout="@layout/time_countdown_layout" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/audio_test_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/audio_cbstereo"
+                style="@style/test_content_primary_large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:text="@string/audio_stereotest" >
+            </CheckBox>
+
+            <TextView
+                android:id="@+id/audio_tvstereo"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="@string/audio_finish"
+                android:visibility="invisible" >
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/audio_track_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/audio_cbtrack"
+                style="@style/test_content_primary_large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:text="@string/audio_track_test" >
+            </CheckBox>
+
+            <ImageView
+                android:id="@+id/audio_ivtrack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/audio_ch_l"
+                android:visibility="invisible" >
+            </ImageView>
+
+            <TextView
+                android:id="@+id/audio_tvtrack"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:visibility="invisible" >
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/audio_receiver_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/audio_cbreceiver"
+                style="@style/test_content_primary_large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:text="@string/audio_receiver" >
+            </CheckBox>
+
+            <TextView
+                android:id="@+id/audio_tvreceiver"
+                style="@style/test_content_primary_middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="@string/audio_finish"
+                android:visibility="invisible" >
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/audio_cbrecord"
+                style="@style/test_content_primary_large"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:text="@string/audio_recordtest" />
+
+            <TextView
+                android:id="@+id/audio_tvrecord"
+                style="@style/test_content_primary_middle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <ProgressBar
+            android:id="@+id/audio_record_progress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:max="100"
+            android:progressDrawable="@drawable/progress_style"
+            android:visibility="gone" >
+        </ProgressBar>
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:id="@+id/audio_button_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/audio_start"
+            style="@style/test_button"
+            android:text="@string/button_start" />
+
+        <Button
+            android:id="@+id/audio_exit"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_exit" />
+    </RelativeLayout>
+
+</LinearLayout>

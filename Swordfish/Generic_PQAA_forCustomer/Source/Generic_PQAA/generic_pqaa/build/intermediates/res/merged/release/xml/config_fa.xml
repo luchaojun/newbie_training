@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:android="http://schemas.android.com/apk/res/android">
+	<items>
+		<item item="TouchPanel" arg1="7" arg2="60"></item>
+		<item item="Display" arg1="127"></item>
+		<item item="SDCard" arg1="1"></item>
+		<item item="Brightness" arg1="1" arg2="2"></item>
+	<!--  	<item item="HDMI"></item>-->
+		<item item="Audio" arg1="24" arg2="5"></item>
+		<item item="Earphone" arg1="20" arg2="5"></item>
+		<item item="SuspendResume" arg1="3" arg2="10"></item>
+		<item item="RTC"></item>
+		<item item="GPS" arg1="60" arg2="0"></item>
+		<item item="MoniPower"></item>
+		<item item="Wifi"></item>
+		<item item="Vibration" arg1="2"></item>
+		<item item="BlueTooth" arg1="5"></item>
+		<item item="MaxLoad" arg1="10 s" arg2="15"></item>
+		<!--<item item="LED" arg1=""></item>-->
+		<item item="GSensor" arg1="10"></item>
+		<item item="LightSensor" arg1="10"></item>
+		<item item="ProximitySensor" arg1="10"></item>
+		<item item="3G" arg1="30"></item> 
+		<item item="IMEI"></item>
+		<item item="ECompass"></item>
+		<item item="NFC" arg1="20"></item>
+		<item item="Camera"></item>
+	    <item item="ConfigChk"></item>
+	</items>
+</config>

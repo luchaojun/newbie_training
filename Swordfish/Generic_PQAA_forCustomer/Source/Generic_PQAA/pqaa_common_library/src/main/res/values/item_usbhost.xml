@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usbhost_test_title">USBHost Test</string>
+    <string name="usbhost_test_title_cn">USB主机端测试</string>
+    <string name="usbhost_prompt">Please connect your USB device to Mobile device:</string>
+    <string name="usbhost_prompt_cn">请將USB设备接入移动设备：</string>
+    <string name="usbhost_mount">usb has been mounted</string>
+    <string name="usbhost_mount_cn">USB已接入</string>
+    <string name="usbhost_unmount">usb has been removed</string>
+    <string name="usbhost_unmount_cn">USB已移除</string>
+    <string name="usbhost_no_found">Have not detected</string>
+    <string name="usbhost_no_found_cn">未检测到</string>
+</resources>

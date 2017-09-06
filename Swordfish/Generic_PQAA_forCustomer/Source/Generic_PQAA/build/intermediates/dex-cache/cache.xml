@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c525e7a303c46111c27de5d34b815fb80f38b264">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/Generic_PQAA-pqaa_common_library-unspecified_41bbdb6693f77e9a5eac4a2fdf4bbfd117952266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/com.android.support-support-v4-21.0.3_1c8b9cb9372dcdd5c377b7bea6b4b7e23aecc494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-21.0.3_6bced60bd77ced75b5f407ff99914fa78682140e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c525e7a303c46111c27de5d34b815fb80f38b264">
+        <dex dex="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/Generic_PQAA-pqaa_common_library-unspecified_1052a5f3f922f6b1670ef56ad64bda99c7f0eca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/libs/opencsv-3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5416b3a41618422e12337c2d3b6152f0cd4d311">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/opencsv-3.7_44376b282f20040c406870fab80e9d7a4a37c833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/libs/opencsv-3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d5416b3a41618422e12337c2d3b6152f0cd4d311">
+        <dex dex="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/opencsv-3.7_493273f3c418f86dd80b196305dc33162a380eaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/Generic_PQAA/pqaa_common_library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c525e7a303c46111c27de5d34b815fb80f38b264">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/Generic_PQAA-pqaa_common_library-unspecified_41bbdb6693f77e9a5eac4a2fdf4bbfd117952266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/AS/android-studio-sdk/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/support-annotations-21.0.3_4fd244b5c1fa3bd43a90956e2badf82c9d9d89a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/libs/Qrcode_generate.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9930a0fdf12e929c9286aaf08e3e95aa8e78d078">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/Qrcode_generate_5abaa8258e5f7917ab03091b9f71b6d937e12d9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/libs/zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/zbar_3463fddd432835a555e417c2ee53d67a3d79622e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/libs/zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/zbar_317788ae8e7ff400611ae16bd38a734d7dbdb9f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-21.0.3_16bd4fc70906a3552a1a636c872e646edcdbbc81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/internal_impl-21.0.3_fd185f3bf14cd9fc28c114f06f92ad0add97b2f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/internal_impl-21.0.3_ca087b8108fc9b150181f02b0474c52238554244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/libs/Qrcode_generate.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9930a0fdf12e929c9286aaf08e3e95aa8e78d078">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/Qrcode_generate_5abaa8258e5f7917ab03091b9f71b6d937e12d9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/com.android.support-support-v4-21.0.3_e4edc4815f307f16e44598e56ffc819870afd335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/libs/zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/zbar_3463fddd432835a555e417c2ee53d67a3d79622e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/libs/Qrcode_generate.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9930a0fdf12e929c9286aaf08e3e95aa8e78d078">
+        <dex dex="/home/payne/Payne/swordfish/Generic_PQAA_forCustomer/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/Qrcode_generate_3833cd8cae01374e4ce0bfda89359e95b0c8458f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/libs/opencsv-3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d5416b3a41618422e12337c2d3b6152f0cd4d311">
+        <dex dex="/home/payne/Payne/PQAA_Codebase/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/generic_pqaa/build/intermediates/pre-dexed/release/opencsv-3.7_44376b282f20040c406870fab80e9d7a4a37c833.jar" />
+    </item>
+
+</items>

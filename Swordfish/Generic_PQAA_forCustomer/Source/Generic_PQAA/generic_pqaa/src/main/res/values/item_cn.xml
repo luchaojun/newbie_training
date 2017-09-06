@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="touchpanel_cn">手写测试</string>
+    <string name="display_cn">显示测试</string>
+    <string name="audio_cn">声音测试</string>
+    <string name="audio_loopback_cn">音频自动化测试</string>
+    <string name="rtc_cn">系统时间测试</string>
+    <string name="sdcard_cn">内存卡测试</string>
+    <string name="monipower_cn">电源检测测试</string>
+    <string name="maxload_cn">负载测试</string>
+    <string name="brightness_cn">亮度测试</string>
+    <string name="configchk_cn">系统属性测试</string>
+    <string name="wifi">Wifi Test</string>
+    <string name="wifi_cn">无线网络测试</string>
+    <string name="vibration_cn">震动测试</string>
+    <string name="bluetooth_cn">蓝牙测试</string>
+    <string name="camera_cn">摄像头测试</string>
+    <!--
+    <string name="camera_back_cn">后置摄像头测试</string>
+    <string name="camera_front_cn">前置摄像头测试</string>
+    <string name="camera_flash_cn">摄像头闪光灯测试</string>
+    -->
+    <string name="usbhost_cn">USB主机端测试</string>
+    <string name="usbclient_cn">USB客户端测试</string>
+    <string name="led_cn">指示灯测试</string>
+    <string name="button_cn">按钮测试</string>
+    <string name="gsensor_cn">重力感应器测试</string>
+    <string name="gyrosensor_cn">陀螺仪测试</string>
+    <string name="lightsensor_cn">光感应器测试</string>
+    <string name="proximitysensor_cn">距离感应器测试</string>
+    <!--<string name="sim_cn">3G测试</string>-->
+    <string name="imei_cn">IMEI测试</string>
+    <string name="ecompass_cn">电子罗盘测试</string>
+    <string name="fingerprinter_cn">指纹测试</string>
+    <string name="pcb_cn">板测版本测试</string>
+    <string name="touchfw_cn">触屏固件版本测试</string>
+    <string name="hdmi_cn">视频测试</string>
+    <string name="thermal_cn">热测试</string>
+    <string name="earphone_cn">耳机测试</string>
+    <string name="earphone_auto_cn">耳机自动化测试</string>
+    <string name="gps_cn">卫星测试</string>
+    <string name="nfc_cn">近场通信测试</string>
+    <string name="suspendresume_cn">睡眠测试</string>
+    <string name="charging_cn">充放电测试</string>
+    <string name="edid_cn">屏幕版本测试</string>
+    <string name="ntpsync_cn">时间同步</string>
+    <string name="automatic_cn">自动化项目测试</string>
+    <string name="multitouch_cn">多点触控测试</string>
+    <string name="ram_cn">内存测试</string>
+    <string name="otg_cn">OTG测试</string>
+    <string name="hallsensor_cn">磁场传感器测试</string>
+    <string name="sim_cn">SIM卡测试</string>
+    <string name="barometer_sensor_cn">压力传感器测试</string>
+    <string name="receiver_auto_cn">聽筒自动化测试</string>
+    <string name="irda_cn">紅外測試</string>
+    <string name="lte_cn">4G测试</string>
+    <string name="sensor_cn">传感器测试</string>
+    <string name="wireless_charging_cn">无线充电测试</string>
+	<string name="dual_sim_cn">双卡测试</string>
+	<string name="auto_cn">自动化测试</string>
+    <string name="quick_charge_cn">快充测试</string>
+    <string name="cameraled">Camera LED</string>
+    <string name="cameraled_cn">Camera LED</string>
+
+</resources>

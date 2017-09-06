@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rtc_test_title">RTC Test</string>
+    <string name="rtc_test_title_cn">系统时间测试</string>
+    <string name="rtc_write">Write Time:</string>
+    <string name="rtc_write_cn">写时间：</string>
+    <string name="rtc_read">Read Time:</string>
+    <string name="rtc_read_cn">读时间：</string>
+    <string name="rtc_settime_fail">can\'t set system time!</string>
+    <string name="rtc_settime_fail_cn">不能够设置系统时间！</string>
+    
+    <string name="rtc_cycles_start">\nFor %1$d times test&#8230;\n</string>
+    <string name="rtc_cycles_start_cn">\n第 %1$d 次测试&#8230;\n</string>
+    <string name="rtc_write_success">Write time is Pass!\n</string>
+    <string name="rtc_write_success_cn">写时间 校验通过！\n</string>
+    <string name="rtc_write_error_permission">Write time is Error: Can\'t set the time!\n</string>
+    <string name="rtc_write_error_permission_cn">写时间 错误：不能够设置系统时间！\n</string>
+    <string name="rtc_write_error_check">Write time is Error: Check fail!\n</string>
+    <string name="rtc_write_error_check_cn">写时间 错误：校验失败！\n</string>
+    <string name="rtc_read_success">Read time is Pass!\n</string>
+    <string name="rtc_read_success_cn">读时间 校验通过！\n</string>
+    <string name="rtc_read_error_check">Read time is Error: Check fail!\n</string>
+    <string name="rtc_read_error_check_cn">读时间 错误：校验失败！\n</string>
+    <string name="rtc_parse_error">Time parse error!\n</string>
+    <string name="rtc_parse_error_cn">时间解析错误！\n</string>
+    <string name="rtc_remote_error">Remote service error!\n</string>
+    <string name="rtc_remote_error_cn">远端服务访问错误！\n</string>
+    
+    <string name="rtc_remark_write_success">Write time is Pass;</string>
+    <string name="rtc_remark_write_error_permission">Write time is Error: Can\'t set the time;</string>
+    <string name="rtc_remark_write_error_check">Write time is Error: Check fail;</string>
+    <string name="rtc_remark_read_success">Read time is Pass;</string>
+    <string name="rtc_remark_read_error_check">Read time is Error: Check fail;</string>
+    <string name="rtc_remark_parse_error">Time parse error;</string>
+</resources>

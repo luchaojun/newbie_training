@@ -1,0 +1,141 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/display_testitem"
+            style="@style/test_content_primary_low"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/display_testitem"
+            android:textStyle="bold"
+            android:typeface="serif" >
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical" >
+
+            <CheckBox
+                android:id="@+id/display_solid"
+                style="@style/test_content_secondary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:shadowColor="#F0F"
+                android:shadowDy="0"
+                android:text="@string/display_solid" />
+
+            <CheckBox
+                android:id="@+id/display_color"
+                style="@style/test_content_secondary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:text="@string/display_color" />
+
+            <CheckBox
+                android:id="@+id/display_line"
+                style="@style/test_content_secondary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:text="@string/display_line" />
+
+            <CheckBox
+                android:id="@+id/display_flickers"
+                style="@style/test_content_secondary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:text="@string/display_flickers" />
+
+            <CheckBox
+                android:id="@+id/display_colorbars"
+                style="@style/test_content_secondary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:text="@string/display_colorbars" />
+
+            <CheckBox
+                android:id="@+id/display_checker"
+                style="@style/test_content_secondary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:text="@string/display_checker" />
+
+            <CheckBox
+                android:id="@+id/display_ghost"
+                style="@style/test_content_secondary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:button="@drawable/checkbox_style"
+                android:checked="true"
+                android:text="@string/display_ghosts" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/display_setting"
+            style="@style/test_content_primary_low"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/display_setting"
+            android:textStyle="bold"
+            android:typeface="serif" >
+        </TextView>
+
+        <CheckBox
+            android:id="@+id/display_autotap"
+            style="@style/test_content_secondary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:button="@drawable/checkbox_style"
+            android:checked="true"
+            android:text="@string/display_auto" >
+        </CheckBox>
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/display_start"
+            style="@style/test_button"
+            android:text="@string/button_start" >
+        </Button>
+
+        <Button
+            android:id="@+id/display_exit"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_exit" >
+        </Button>
+    </RelativeLayout>
+
+</LinearLayout>

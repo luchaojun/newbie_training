@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gyrosensor_test_title">GyroSensor Test</string>
+    <string name="gyrosensor_test_title_cn">陀螺仪感应器测试</string>
+    <string name="gyrosensor_unavailable">GyroSensor is unavailable!</string>
+    <string name="gyrosensor_unavailable_cn">陀螺仪傳感器不可用!</string>
+</resources>

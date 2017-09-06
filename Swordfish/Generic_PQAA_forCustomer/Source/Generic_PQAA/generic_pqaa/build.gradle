@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            storeFile file('/home/payne/Payne/Generic_PQAA/PQAA/Generic/Generic_PQAA_L/Source/Generic_PQAA/release/release_key.jks')
+            keyAlias 'release_key'
+            keyPassword '123456'
+            storePassword '123456'
+        }
+    }
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+    defaultConfig {
+        applicationId "com.wistron.generic.pqaa"
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionCode 20170503
+        versionName "1.6.3"
+        signingConfig signingConfigs.config
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile files('libs/Qrcode_generate.jar')
+    compile files('libs/opencsv-3.7.jar')
+    compile files('libs/zbar.jar')
+    compile project(':pqaa_common_library')
+    compile 'com.android.support:appcompat-v7:21.0.3'
+}

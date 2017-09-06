@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:android="http://schemas.android.com/apk/res/android">
+	<items>
+	   <!--  <item item="Audio" arg1="13" arg2="5" arg3="15"></item> -->
+	    <item item="AudioLoopback" arg1="1" arg2="015*#" arg3="3" arg4="15"></item>
+	    <item item="BlueTooth" arg1="10"></item>
+        <item item="Brightness" arg1="1" arg2="2"></item>
+	    <item item="Camera"></item>
+	     <item item="ECompass" arg1="10" arg2="15"></item>
+	    <item item="ConfigChk" arg1="3~64" arg2="512~3072" arg3="2012" arg4="ARMv7" arg5="7" arg6="2" arg7="100~2500"></item>
+	    <item item="Display" arg1="16" arg2="2" arg3="3000"></item>
+	     <item item="GSensor" arg1="10" arg2="0.3"></item>
+	    <item item="GyroSensor" arg1="10" arg2="0.3"></item>
+	    <item item="LightSensor" arg1="10" arg2="0.3"></item>
+	    <item item="MoniPower" arg1="3.5" arg2="4.2"></item>
+	     <item item="ProximitySensor" arg1="10" arg2="0.3"></item>
+	   <!-- <item item="SDCard" arg1="sdcard" arg2="1"></item>-->
+		<item item="TouchPanel" arg1="7" arg2="60"></item>
+        <!--<item item="Headset" arg1="11" arg2="5" arg3="15" arg4="20"></item>-->
+		<!--<item item="HeadsetLoopback" arg1="1" arg2="015*#" arg3="3" arg4="15"></item>-->
+		<item item="Vibration" arg1="2"></item>
+		<item item="Wifi" arg1="50" arg2="teddybear2" arg3="2" arg4="0000110000" arg5="8"
+			arg6="8" arg7="-150" arg8="1" arg9="www.baidu.com"></item>
+		<item item="MultiTouch" arg1="5" arg2="20"></item>
+		<!--<item item="RAM" ></item>-->
+		<!--<item item="OTG" arg1="20"></item>-->
+		<!--<item item="GPS" arg1="60" arg2="3" arg3="3" arg4="39"></item>-->
+		<!--<item item="NFC" arg1="20" arg2="1"></item>-->
+		<!--<item item="HallSensor" arg1="25"></item>-->
+		<!--<item item="SIM" arg1="15" arg2="-50" arg3="-100"></item>-->
+		<item item="Button" arg1="15"></item>
+		<!--<item item="HDMI" arg1 ="60"></item>
+		<item item="BarometerSensor" arg1="15" arg2="800" arg3="1200"></item>-->
+		<!--<item item="ReceiverLoopback"></item>-->
+		<!--<item item="LED" arg1="10"></item>-->
+		<!--<item item="LTE" arg1="10" arg2="-100" arg3="-50"></item>
+		<item item="IrDA" arg1="38000" arg2="1000"></item>-->
+		<!--<item item="SensorTest" arg1="20" arg2="31"></item>-->
+        <!--<item item="WirelessCharging" arg1="5"></item>
+        <item item="DualSIM"></item>-->
+        <!--<item item="Automatic"></item>-->
+        <!-- <item item="3G" arg1="30"></item>
+        <item item="IMEI"></item> -->
+		<!-- <item item="MaxLoad" arg1="10 s" arg2="15"></item> -->
+		<!-- <item item="USBClient" arg1="10"/> -->
+	</items>
+</config>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <CheckBox
+                 style="@style/test_content_primary_middle"
+                 android:button="@drawable/checkbox_style"
+                android:id="@+id/sdcard_test"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="@string/sdcard_test"
+                android:textStyle="bold"
+                android:typeface="serif" >
+            </CheckBox>
+
+            <ImageView
+                android:id="@+id/sdcard_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="40px"
+                android:paddingRight="30px"
+                android:paddingTop="30px" >
+            </ImageView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            
+            android:paddingLeft="20px"
+            android:paddingTop="20px" >
+
+            <TextView
+                style="@style/test_content_secondary"
+                android:id="@+id/sdcard_path_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sdcard_path"
+                >
+            </TextView>
+
+            <EditText
+                style="@style/test_content_secondary"
+                android:background="@drawable/edittext_style"
+                android:id="@+id/sdcard_path"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20px"
+                android:paddingRight="10px"
+                 >
+            </EditText>
+        </LinearLayout>
+
+        <TextView
+            style="@style/test_content_primary_low"
+            android:id="@+id/sdcard_status_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="20px"
+            android:text="@string/sdcard_status"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/sdcard_progress_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="20px"
+            android:paddingTop="20px"
+            android:visibility="visible" >
+
+            <ProgressBar
+                android:id="@+id/sdcard_progress"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="300px"
+                android:layout_height="10dp"
+                android:max="100"
+                android:progressDrawable="@drawable/progress_style"
+                android:progress="0" />
+
+            <TextView
+                style="@style/test_content_secondary"
+                android:id="@+id/sdcard_status"
+                android:layout_marginLeft="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <CheckBox
+            style="@style/test_content_primary_middle"
+            android:button="@drawable/checkbox_style"
+            android:id="@+id/sdcard_protect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            android:checked="false"
+            android:text="@string/sdcard_protect"
+            />
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="invisible" >
+
+        <Button
+            android:id="@+id/sdcard_start"
+            style="@style/test_button"
+            android:text="@string/button_start" >
+        </Button>
+
+        <Button
+            android:id="@+id/sdcard_exit"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_exit" />
+    </RelativeLayout>
+
+</LinearLayout>

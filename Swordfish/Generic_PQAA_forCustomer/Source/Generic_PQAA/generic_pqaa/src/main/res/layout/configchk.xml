@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:scrollbars="vertical" >
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/color_back"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_content"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:text="@string/configchk_title_content"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_range"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:text="@string/configchk_title_range"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_value"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:text="@string/configchk_title_value"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_result"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:layout_weight="1"
+                    android:text="@string/configchk_title_result"
+                    android:textStyle="bold" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_item_flash"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:textSize="12sp"
+                    android:text="@string/configchk_item_flash"
+                    android:gravity="left"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_flash_set"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="@string/configchk_flash_range" />
+
+                <TextView
+                    android:id="@+id/configchk_flash_sys"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <ImageView
+                    android:layout_weight="1"
+                    android:id="@+id/configchk_flash_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/failed" />
+            </TableRow>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_margin="10dp"
+                android:background="@color/color_divider" >
+            </TableLayout>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_item_memory"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:textSize="12sp"
+                    android:gravity="left"
+                    android:text="@string/configchk_item_memory"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_memory_set"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:textSize="12sp"
+                    android:text="@string/configchk_memory_range" />
+
+                <TextView
+                    android:id="@+id/configchk_memory_sys"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:singleLine="true" />
+
+                <ImageView
+                    android:id="@+id/configchk_memory_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:scaleType="fitCenter"
+                    android:layout_weight="1"
+                    android:src="@drawable/failed" />
+            </TableRow>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_margin="10dp"
+                android:background="@color/color_divider" >
+            </TableLayout>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_item_os"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:text="@string/configchk_item_os"
+                    android:gravity="left"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_os_set"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:singleLine="true" />
+
+                <TextView
+                    android:id="@+id/configchk_os_sys"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:singleLine="true" />
+
+                <ImageView
+                    android:id="@+id/configchk_os_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/failed" />
+            </TableRow>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_margin="10dp"
+                android:visibility="gone"
+                android:background="@color/color_divider" >
+            </TableLayout>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_item_uboot"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:text="@string/configchk_item_uboot"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_uboot_set"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true" />
+
+                <TextView
+                    android:id="@+id/configchk_uboot_sys"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true" />
+
+                <ImageView
+                    android:id="@+id/configchk_uboot_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/failed" />
+            </TableRow>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_margin="10dp"
+                android:background="@color/color_divider" >
+            </TableLayout>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_item_cpu_processor"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:textSize="12sp"
+                    android:gravity="left"
+                    android:text="@string/configchk_item_cpu_processor"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_processor_set"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <TextView
+                    android:id="@+id/configchk_processor_sys"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <ImageView
+                    android:id="@+id/configchk_processor_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/failed" />
+            </TableRow>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_margin="10dp"
+                android:background="@color/color_divider" >
+            </TableLayout>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_item_cpu_revision"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:textSize="12sp"
+                    android:gravity="left"
+                    android:text="@string/configchk_item_cpu_revision"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_revision_set"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:singleLine="true" />
+
+                <TextView
+                    android:id="@+id/configchk_revision_sys"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <ImageView
+                    android:id="@+id/configchk_revision_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/failed" />
+            </TableRow>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_margin="10dp"
+                android:background="@color/color_divider" >
+            </TableLayout>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_item_cpu_frequency"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:textSize="12sp"
+                    android:gravity="left"
+                    android:text="@string/configchk_item_cpu_frequency"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_frequency_set"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:gravity="center"
+                    android:textSize="12sp"
+                    android:text="@string/configchk_cpu_frequency" />
+
+                <TextView
+                    android:id="@+id/configchk_frequency_sys"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <ImageView
+                    android:id="@+id/configchk_frequency_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/failed" />
+            </TableRow>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_margin="10dp"
+                android:visibility="gone"
+                android:background="@color/color_divider" >
+            </TableLayout>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_item_cpu_architecture"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:textSize="12sp"
+                    android:gravity="left"
+                    android:text="@string/configchk_item_cpu_architecture"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_architecture_set"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <TextView
+                    android:id="@+id/configchk_architecture_sys"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <ImageView
+                    android:id="@+id/configchk_architecture_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/failed" />
+            </TableRow>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_margin="10dp"
+                android:visibility="gone"
+                android:background="@color/color_divider" >
+            </TableLayout>
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_item_IMEI"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:textSize="12sp"
+                    android:gravity="left"
+                    android:text="@string/configchk_item_IMEI"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_IMEI_set"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <TextView
+                    android:id="@+id/configchk_IMEI_sys"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <ImageView
+                    android:id="@+id/configchk_IMEI_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                     />
+            </TableRow>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_margin="10dp"
+                android:background="@color/color_divider" >
+            </TableLayout>
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/configchk_item_LanMac"
+                    style="@style/test_content_primary_low"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:textSize="12sp"
+                    android:gravity="left"
+                    android:text="@string/configchk_item_LANMAC"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/configchk_LanMac_set"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <TextView
+                    android:id="@+id/configchk_LanMac_sys"
+                    style="@style/test_content_secondary"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="12sp"
+                    android:gravity="center"
+                    android:singleLine="true" />
+
+                <ImageView
+                    android:id="@+id/configchk_LanMac_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                     />
+            </TableRow>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:layout_margin="10dp"
+                android:background="@color/color_divider" >
+            </TableLayout>
+        </TableLayout>
+    </ScrollView>
+
+    <include layout="@layout/divider_layout" />
+
+    <Button
+        style="@style/test_button"
+        android:visibility="invisible" />
+
+</LinearLayout>

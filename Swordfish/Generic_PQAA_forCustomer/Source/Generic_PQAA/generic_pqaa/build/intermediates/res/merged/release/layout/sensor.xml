@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView 
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:text="@string/Sensor_Tips"
+	android:visibility="gone"/>
+<SeekBar 
+	android:id="@+id/sensor_range"
+	android:layout_width="200px"
+	android:layout_height="wrap_content"
+	android:max="10"
+	android:visibility="gone"/>
+<TextView
+	android:id="@+id/sensor_sensor"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    />
+<TextView
+	android:id="@+id/sensor_data"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:layout_marginTop="20px"
+    />
+<RelativeLayout 
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="20px"
+	android:gravity="center_horizontal"
+	android:background="@color/blue"
+	android:visibility="gone">
+	<Button 
+		android:id="@+id/sensor_pass"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/pass"
+		android:layout_centerHorizontal="true"/>
+	<Button 
+		android:id="@+id/sensor_fail"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/fail"
+		android:layout_toRightOf="@id/sensor_pass"
+		android:layout_centerHorizontal="true"/>
+</RelativeLayout>
+</LinearLayout>

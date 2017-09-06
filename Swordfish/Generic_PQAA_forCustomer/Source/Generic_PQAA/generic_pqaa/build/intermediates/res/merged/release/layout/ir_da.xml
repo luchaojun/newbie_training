@@ -1,0 +1,98 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_divider_layout" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/irda_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/irda_has_not_emitter"
+            android:textColor="#ff0000" />
+
+        <TextView
+            android:id="@+id/irda_frequency_range"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/frequency_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Frequency" />
+
+                <EditText
+                    android:id="@+id/irda_transmit_frequency"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="HZ"
+                    android:inputType="numberSigned" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/pattern_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pattern" />
+
+                <EditText
+                    android:id="@+id/irda_transmit_pattern"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="pattern, separated by comma symbol"
+                    android:singleLine="true" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/irda_transmit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <include layout="@layout/divider_layout" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/btn_pass"
+            style="@style/test_button"
+            android:text="@string/button_start" />
+
+        <Button
+            android:id="@+id/btn_fail"
+            style="@style/test_button"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_stop" />
+    </RelativeLayout>
+
+</LinearLayout>
