@@ -1,0 +1,2 @@
+								Summary today
+	Today,I add the five functions into the programme successfully.First,you should add the class of the five functions in the package which named com.wistrol.generic.Secondary,you should add the item in config.xml.Finally,you must state the sentence of the if in class of the TestItemsList.
