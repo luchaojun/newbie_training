@@ -1,0 +1,2 @@
+    								Summary today
+	Today,l learn to use two methods of serialization.Th first one let the class which we define implements the interface of Serializable and the android studio will help us finish the next work automatically.The second one let the class which we define implements the interface of Parcelable and you must override two methods of the writeToParcel and the describeContents.Next,you should define the class of the creator and override two methods of the newArray and createFromParcel.By comparison,the second one is more efficient than the first one.
