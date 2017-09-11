@@ -1,0 +1,4 @@
+							Summary today
+	Today,l start to make the programme of swordfish.I understand many classes in swordfish.There are Audio,Vibration,Brightness and so on.
+My task is to add five functions into the programme of the swordfish.There are Ethernet,Camera_LED,Usb read/write,C8 Printer and C8 cash drawer.
+The Camera_LED is only to support C10. The printer and te cash drawer is only to support C8.
