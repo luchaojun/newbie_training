@@ -1,0 +1,2 @@
+							Summary today
+	Today,I learn to the AndroidManifest.Its attribute of sharedUserId let many apks which have the same userid run in the same process.If you write the package in the first of the attribute of the applicate,the next path will add the the value of the pakage automatically.The screenOriention will limit the style ofthe screen's show.The attribute of permission is used to let us state the permission by ourselves.
